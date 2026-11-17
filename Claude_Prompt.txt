@@ -1,0 +1,674 @@
+# INNOTHON – India Energy Production Forecasting 2047
+## Master Task: Automated Data Acquisition + Complete Data Audit
+
+Act as a Senior Data Engineer, Data Scientist, Energy Systems Analyst and Python Automation Engineer.
+
+I am participating individually in INNOTHON with the problem statement:
+
+**"Forecasting India's Energy Production and Strategizing its Fulfillment by 2047."**
+
+Your responsibility is to complete two major stages:
+
+1. Automated data acquisition from the competition-authorized sources.
+2. Complete data auditing and data availability assessment.
+
+Do not start forecasting or model development yet.
+
+---
+
+# PART 1: STRICT DATA RESTRICTIONS
+
+We are permitted to use only these competition-provided sources:
+
+### Source 1: National Power Portal
+
+Website:
+https://npp.gov.in/
+
+Published Reports:
+https://npp.gov.in/publishedReports
+
+### Source 2: Renewable India Dataset
+
+GitHub:
+https://github.com/chrisjaimyantony/renewable-india-dataset
+
+### Mandatory restrictions
+
+- Use only these two authorized sources for data.
+- Do not download datasets from other websites.
+- Do not use Kaggle or other GitHub repositories.
+- Do not use external APIs.
+- Do not use search-engine-discovered datasets.
+- Do not use third-party demographic, economic or geographical datasets.
+- Do not generate synthetic historical observations.
+- Do not fabricate missing values.
+- Never substitute installed capacity for actual energy generation.
+- Never use energy consumption as a forecasting or comparison variable.
+- Never modify original downloaded files.
+- Never silently make assumptions about missing data.
+
+Python libraries, automation frameworks, machine learning libraries and visualization libraries can be used freely. The restriction applies to the underlying data sources.
+
+If an additional data source appears necessary, report the gap instead of using it.
+
+---
+
+# PART 2: PROJECT DIRECTORY STRUCTURE
+
+First inspect the existing project directory.
+
+Create the following structure without deleting existing files:
+
+INNOTHON/
+│
+├── data/
+│   ├── raw/
+│   │   ├── npp/
+│   │   │   ├── all_india/
+│   │   │   ├── region_wise/
+│   │   │   ├── state_wise/
+│   │   │   ├── station_wise/
+│   │   │   ├── source_wise/
+│   │   │   └── other_reports/
+│   │   │
+│   │   └── renewable_india/
+│   │
+│   ├── processed/
+│   └── metadata/
+│
+├── scripts/
+│   ├── download_npp.py
+│   ├── download_github.py
+│   ├── inspect_files.py
+│   ├── audit_data.py
+│   └── validate_data.py
+│
+├── notebooks/
+│
+├── reports/
+│
+├── logs/
+│
+├── requirements.txt
+└── README.md
+
+Keep raw, processed and metadata files separate.
+
+---
+
+# PART 3: STAGE A – AUTOMATED NATIONAL POWER PORTAL DATA DOWNLOAD
+
+## A1. Explore the portal
+
+Open:
+
+https://npp.gov.in/publishedReports
+
+Inspect the website and identify:
+
+- Published Reports.
+- Monthly Reports.
+- Daily Reports.
+- Archive.
+- Actual generation reports.
+- Historical reporting periods.
+- Download formats.
+- Available regional, state and station-wise reports.
+
+Use browser automation or Computer Use capabilities if available.
+
+You may use:
+- Playwright.
+- Selenium.
+- Browser automation.
+- Python requests, where permitted.
+- Other appropriate automation libraries.
+
+Do not assume the website uses static URLs.
+
+Inspect the actual interface and determine how its archive and report filters work.
+
+If login, OTP, CAPTCHA or other manual authorization is required, pause and ask me to complete it.
+
+Never bypass authentication or website access controls.
+
+## A2. Determine historical coverage
+
+Find the:
+
+- Oldest available reporting period.
+- Newest available reporting period.
+- Available financial years.
+- Available calendar years.
+- Missing reporting periods.
+
+Download the maximum available historical data.
+
+Do not limit the collection to the most recent five years.
+
+However, do not claim complete coverage if the archive has missing years or months.
+
+## A3. Priority monthly actual generation reports
+
+Download all available historical versions of the following reports, wherever available:
+
+1. Monthly Reports – All India.
+2. Monthly Reports – Region Wise.
+3. Monthly Reports – Region wise, State wise and Station wise Detail.
+4. Thermal, Hydro and Nuclear Consolidated.
+5. Coal/Lignite/Multi Fuel reports.
+6. Gas and Liquid Fuel reports.
+
+Prioritize Excel formats (XLS/XLSX).
+
+If both Excel and PDF versions are available, prefer Excel.
+
+Download only ACTUAL generation reports when available, not tentative projections.
+
+Do not confuse actual generation with installed capacity, consumption or availability.
+
+## A4. Additional generation source reports
+
+Investigate the availability of actual generation reports for:
+
+- Coal.
+- Lignite.
+- Natural Gas.
+- Liquid Fuel/Diesel.
+- Hydro.
+- Nuclear.
+- Solar.
+- Wind.
+
+Determine whether these categories are separately available or included in consolidated reports.
+
+Do not assume separate reports exist for every category.
+
+Record unavailable categories.
+
+## A5. Important reporting distinctions
+
+For every report, investigate whether its numerical values represent:
+
+- Monthly generation.
+- Cumulative year-to-date generation.
+- Financial-year generation.
+- Calendar-year generation.
+- Daily generation.
+
+Do not sum cumulative figures as if they were independent monthly observations.
+
+Do not add station totals to state totals or state totals to regional totals.
+
+Avoid double counting.
+
+## A6. Download reliability
+
+For each downloaded report:
+
+- Preserve the original filename wherever possible.
+- Record its original URL.
+- Record the report name.
+- Record the reporting period.
+- Record the download date.
+- Record the original file format.
+- Record file size.
+- Validate that the file is readable.
+- Check that it is not an HTML error page renamed as Excel.
+- Avoid duplicate downloads.
+
+If a download fails, record the error and continue with other reports.
+
+Do not repeatedly retry the same failed report indefinitely.
+
+---
+
+# PART 4: STAGE B – DOWNLOAD RENEWABLE INDIA DATASET
+
+Repository:
+
+https://github.com/chrisjaimyantony/renewable-india-dataset
+
+Download the repository using Git or its official ZIP download.
+
+Extract the files into:
+
+data/raw/renewable_india/
+
+Preserve the original files and filenames.
+
+Record:
+
+- Repository URL.
+- Retrieval date.
+- Repository branch or commit, if available.
+- Downloaded filenames.
+- File formats.
+
+Inspect the available fields.
+
+This dataset may contain:
+- State.
+- Year.
+- Population.
+- GSDP.
+- Solar installed capacity.
+- Wind installed capacity.
+- Small hydro installed capacity.
+- Biomass installed capacity.
+- Waste-to-energy installed capacity.
+
+Verify the actual columns instead of assuming this list is complete.
+
+IMPORTANT:
+
+Installed capacity is not energy generation.
+
+Do not use these capacity variables as substitutes for actual generation or as the basis for generation comparisons.
+
+Use only permitted supporting variables where relevant.
+
+---
+
+# PART 5: STAGE C – DOWNLOAD MANIFEST
+
+Create:
+
+data/metadata/download_manifest.csv
+
+Required columns:
+
+- file_name
+- source
+- report_name
+- report_category
+- reporting_period
+- download_date
+- original_url
+- file_format
+- file_size_bytes
+- download_status
+- historical_or_current
+- notes
+
+Create:
+
+reports/download_summary.md
+
+Include:
+
+1. Total number of downloaded files.
+2. Files downloaded from each authorized source.
+3. Report categories.
+4. Historical year coverage.
+5. Oldest and newest available reports.
+6. Missing reporting periods.
+7. Failed downloads.
+8. Unavailable report categories.
+9. Portal restrictions or access limitations.
+10. Any remaining manual download requirements.
+
+Do not mark a report as successfully downloaded unless its file is verified.
+
+---
+
+# PART 6: STAGE D – COMPLETE DATA AUDIT
+
+After downloads finish, inspect ALL files recursively inside:
+
+data/raw/
+
+Also include any files already present before the download process.
+
+Do not skip nested folders.
+
+## D1. File inventory
+
+For every file, identify:
+
+- File name.
+- File path.
+- Format.
+- File size.
+- Excel sheet names.
+- Number of rows.
+- Number of columns.
+- Column names.
+- Data types.
+- Units, where identifiable.
+- Reporting period.
+- Geographical coverage.
+
+Support:
+- CSV.
+- XLS.
+- XLSX.
+- PDF, where available.
+
+For PDFs, inspect tables and report structure without modifying the original file.
+
+## D2. Generation variable classification
+
+Classify each numerical variable into:
+
+1. Actual energy generation.
+2. Installed capacity.
+3. Energy consumption.
+4. Availability.
+5. Other operational variables.
+6. Demographic variables.
+7. Economic variables.
+8. Unknown or unverified variables.
+
+For each generation variable, record:
+
+- Energy source.
+- Unit.
+- Time period.
+- Geographical level.
+- Whether the value is monthly, daily, cumulative or annual.
+- Whether it represents actual or tentative generation.
+
+Only verified actual energy generation may be used as the forecasting target.
+
+If a column is ambiguous, mark it as UNVERIFIED instead of assuming its meaning.
+
+## D3. Data dictionary
+
+For every relevant dataset and sheet, create a data dictionary.
+
+Include:
+
+- Dataset name.
+- Sheet name.
+- Column name.
+- Data type.
+- Description.
+- Unit.
+- Variable classification.
+- Geographical level.
+- Temporal granularity.
+- Missing percentage.
+- Example values.
+- Usage eligibility.
+- Remarks.
+
+Create:
+
+reports/data_dictionary.csv
+
+## D4. Data availability matrix
+
+Create a detailed matrix showing whether the following are available:
+
+| Data requirement | Available? | Dataset | Historical coverage | Granularity | Unit |
+|---|---|---|---|---|---|
+| National generation | | | | | |
+| State-wise generation | | | | | |
+| Region-wise generation | | | | | |
+| Station-wise generation | | | | | |
+| Coal generation | | | | | |
+| Hydro generation | | | | | |
+| Solar generation | | | | | |
+| Wind generation | | | | | |
+| Nuclear generation | | | | | |
+| Natural gas generation | | | | | |
+| Population | | | | | |
+| GSDP | | | | | |
+| Geographic indicators | | | | | |
+| Climatic indicators | | | | | |
+| Urbanization indicators | | | | | |
+
+Use these status labels:
+
+- AVAILABLE.
+- PARTIALLY AVAILABLE.
+- NOT AVAILABLE.
+- UNVERIFIED.
+
+Do not mark something available merely because a similarly named column exists.
+
+Create:
+
+reports/data_availability.csv
+
+## D5. Data quality checks
+
+Perform these checks wherever the data structure supports them.
+
+### Completeness
+- Missing values.
+- Missing years.
+- Missing months.
+- Missing states.
+- Missing energy sources.
+
+### Consistency
+- Different state spellings.
+- Different energy source labels.
+- Inconsistent units.
+- Duplicate records.
+- Inconsistent date formats.
+
+### Temporal integrity
+- Monthly versus cumulative data.
+- Financial-year versus calendar-year reporting.
+- Missing reporting periods.
+- Duplicate reporting periods.
+
+### Numerical integrity
+- Negative generation values.
+- Unexpected zero values.
+- Extreme outliers.
+- Sudden unexplained changes.
+- Invalid numeric values.
+
+### Reconciliation
+- State totals versus national totals.
+- Regional totals versus national totals.
+- Station totals versus state totals.
+- Source-wise generation versus overall generation.
+
+Only perform reconciliation where the geographical coverage, reporting period, source classification and units match.
+
+Do not force totals to match by modifying source data.
+
+Create:
+
+reports/data_quality_report.md
+
+## D6. Important state and geographical checks
+
+Inspect state names and geographical coverage.
+
+Identify:
+- States.
+- Union Territories.
+- Regions.
+- States that have changed names.
+- Missing states.
+- State and station mapping inconsistencies.
+
+Do not merge or rename ambiguous geographical records without recording the mapping decision.
+
+---
+
+# PART 7: STAGE E – FINAL AUDIT REPORT
+
+Create:
+
+reports/data_audit.md
+
+The report must contain:
+
+1. Executive summary.
+2. Data sources and download status.
+3. File inventory.
+4. Dataset descriptions.
+5. Excel sheet inventory.
+6. Historical coverage.
+7. Geographical coverage.
+8. Energy source coverage.
+9. Generation versus capacity classification.
+10. Demographic and economic data availability.
+11. Data quality findings.
+12. Missing data.
+13. Reconciliation findings.
+14. Major limitations.
+15. Recommendations for the next phase.
+
+Explicitly answer:
+
+A. Is national actual generation forecasting feasible?
+
+B. Is state-wise generation forecasting feasible?
+
+C. Is energy-source-wise forecasting feasible?
+
+D. Can all six requested energy sources be separately forecast?
+
+E. Is there sufficient historical data for a 2047 forecast?
+
+F. Which supporting variables are available?
+
+G. Which requirements cannot be satisfied using the permitted datasets?
+
+H. What data gaps need to be addressed?
+
+I. What is the recommended modeling strategy based on actual data availability?
+
+For each answer, provide evidence from the inspected datasets.
+
+---
+
+# PART 8: IMPLEMENTATION REQUIREMENTS
+
+Write reusable Python scripts:
+
+scripts/download_npp.py
+scripts/download_github.py
+scripts/inspect_files.py
+scripts/audit_data.py
+scripts/validate_data.py
+
+Use:
+- pandas.
+- numpy.
+- openpyxl.
+- xlrd, if necessary for XLS.
+- requests, where permitted.
+- Playwright or Selenium, if required.
+- pdfplumber or equivalent, if PDF inspection is required.
+
+Use requirements.txt for dependencies.
+
+Add error handling and logging.
+
+Do not create a script that silently ignores failed downloads or unreadable files.
+
+Do not overwrite raw files.
+
+Keep all transformations outside data/raw/.
+
+---
+
+# PART 9: STRICT EXECUTION ORDER
+
+Follow this exact sequence:
+
+STEP 1:
+Inspect the existing project directory.
+
+STEP 2:
+Inspect the National Power Portal.
+
+STEP 3:
+Determine the archive's historical coverage and download mechanism.
+
+STEP 4:
+Download all relevant authorized NPP reports.
+
+STEP 5:
+Download the Renewable India GitHub repository.
+
+STEP 6:
+Generate the download manifest and summary.
+
+STEP 7:
+Inspect all raw files recursively.
+
+STEP 8:
+Generate the data dictionary.
+
+STEP 9:
+Generate the data availability matrix.
+
+STEP 10:
+Run data quality and reconciliation checks.
+
+STEP 11:
+Generate the final audit report.
+
+STEP 12:
+Present the findings and recommendation.
+
+Do not skip a step.
+
+If any task cannot be completed because of portal access restrictions, document it and ask for assistance.
+
+---
+
+# PART 10: WHAT NOT TO DO
+
+Do not:
+
+- Train any machine learning model.
+- Forecast 2047 values.
+- Generate artificial historical data.
+- Invent missing demographic data.
+- Assume capacity factors to convert capacity into generation.
+- Estimate missing source-wise generation from installed capacity.
+- Use energy consumption as a proxy.
+- Download additional datasets from external sources.
+- Modify raw data.
+- Claim that the data is complete without evidence.
+
+---
+
+# FINAL DELIVERABLES
+
+I expect these files:
+
+data/metadata/download_manifest.csv
+
+reports/
+├── download_summary.md
+├── data_audit.md
+├── data_dictionary.csv
+├── data_availability.csv
+└── data_quality_report.md
+
+scripts/
+├── download_npp.py
+├── download_github.py
+├── inspect_files.py
+├── audit_data.py
+└── validate_data.py
+
+At completion, show:
+
+1. Number of successfully downloaded files.
+2. Historical data coverage.
+3. Available generation categories.
+4. State and regional coverage.
+5. Missing data requirements.
+6. Data quality issues.
+7. Whether national forecasting is feasible.
+8. Whether state-wise forecasting is feasible.
+9. Whether source-wise forecasting is feasible.
+10. Recommended next steps.
+
+**The most important priority is data integrity and compliance with the competition rules.**
+
+Begin with inspecting the project directory and the National Power Portal. Execute the entire workflow systematically. Do not begin forecasting until I explicitly approve the audit.

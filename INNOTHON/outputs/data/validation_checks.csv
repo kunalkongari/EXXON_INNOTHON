@@ -1,0 +1,15 @@
+check,n,max_abs_diff_gwh,pass,detail
+R01 TOTAL - BHUTAN = THERMAL+NUCLEAR+HYDRO,87,1.4551915228366852e-11,True,
+R11 coal + R11 lignite + R16 gas + R16 diesel = R01 THERMAL,87,0.11000000000058208,True,
+R16 gas + R16 diesel = R15 'TOTAL EXCL. COAL/LIGNITE',87,0.015999999998712156,True,
+Overlap: #5 (published next year) vs original #4,375,115.89999999999418,False,"375 overlapping series-months; max |diff| 0.10%, median 0.000%, 1 pairs >0.1% -> small restatements; extended rows therefore FLAGGED, not merged"
+R02 regional TOTAL = THERMAL+NUCLEAR+HYDRO,435,7.275957614183426e-12,True,
+Sum of station rows by state = published state total (#4),2912,1.8189894035458565e-12,True,
+Sum of station rows by state = published state total (#9 fytd),2912,2.9103830456733704e-11,True,"differences mean stations listed during the year but dropped later, or vice versa"
+State COAL_LIGNITE + DIESEL (stations) = R16 'THERMAL' group,2912,1.8189894035458565e-12,True,
+State NATURAL_GAS (stations) = R16 'NATURAL GAS' group,2912,2.2737367544323206e-13,True,
+Sum of state totals = regional domestic total,435,0.040000000000873115,True,
+Sum of regions = national domestic total,87,0.13999999999941792,True,
+national: sum of 12 monthly = March cumulative (#9),60,0.2400000001071021,True,difference = in-year revisions folded into cumulative
+regional: sum of 12 monthly = March cumulative (#9),108,0.2300000000395812,True,difference = in-year revisions folded into cumulative
+state: sum of 12 monthly = March cumulative (#9),637,0.08000000001629815,True,difference = in-year revisions folded into cumulative

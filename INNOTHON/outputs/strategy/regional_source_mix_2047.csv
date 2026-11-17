@@ -1,0 +1,1576 @@
+framework,variant,scenario,quantile,region,source,gwh
+policy,P0_status_quo_FY2025_26,central,p10,Northern,COAL_LIGNITE,343274.7713067356
+policy,P0_status_quo_FY2025_26,central,p10,Northern,NATURAL_GAS,6742.087350067483
+policy,P0_status_quo_FY2025_26,central,p10,Northern,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,central,p10,Northern,NUCLEAR,16789.087174199612
+policy,P0_status_quo_FY2025_26,central,p10,Northern,HYDRO,101197.05838583595
+policy,P0_status_quo_FY2025_26,central,p10,Western,COAL_LIGNITE,583195.81949809
+policy,P0_status_quo_FY2025_26,central,p10,Western,NATURAL_GAS,12681.650147938628
+policy,P0_status_quo_FY2025_26,central,p10,Western,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,central,p10,Western,NUCLEAR,23589.423198589753
+policy,P0_status_quo_FY2025_26,central,p10,Western,HYDRO,23526.481409746928
+policy,P0_status_quo_FY2025_26,central,p10,Southern,COAL_LIGNITE,300339.0497220066
+policy,P0_status_quo_FY2025_26,central,p10,Southern,NATURAL_GAS,3227.876125501377
+policy,P0_status_quo_FY2025_26,central,p10,Southern,DIESEL,79.2875332381066
+policy,P0_status_quo_FY2025_26,central,p10,Southern,NUCLEAR,26857.534656587515
+policy,P0_status_quo_FY2025_26,central,p10,Southern,HYDRO,53965.54794610624
+policy,P0_status_quo_FY2025_26,central,p10,Eastern,COAL_LIGNITE,328657.7397348764
+policy,P0_status_quo_FY2025_26,central,p10,Eastern,NATURAL_GAS,0.0
+policy,P0_status_quo_FY2025_26,central,p10,Eastern,DIESEL,451.1522300806841
+policy,P0_status_quo_FY2025_26,central,p10,Eastern,NUCLEAR,0.0
+policy,P0_status_quo_FY2025_26,central,p10,Eastern,HYDRO,16033.488365148314
+policy,P0_status_quo_FY2025_26,central,p10,North Eastern,COAL_LIGNITE,4711.924473949528
+policy,P0_status_quo_FY2025_26,central,p10,North Eastern,NATURAL_GAS,9055.090950226788
+policy,P0_status_quo_FY2025_26,central,p10,North Eastern,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,central,p10,North Eastern,NUCLEAR,0.0
+policy,P0_status_quo_FY2025_26,central,p10,North Eastern,HYDRO,8974.016734868435
+policy,P0_status_quo_FY2025_26,central,p50,Northern,COAL_LIGNITE,433313.7588758718
+policy,P0_status_quo_FY2025_26,central,p50,Northern,NATURAL_GAS,8510.497876689971
+policy,P0_status_quo_FY2025_26,central,p50,Northern,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,central,p50,Northern,NUCLEAR,21192.767659137255
+policy,P0_status_quo_FY2025_26,central,p50,Northern,HYDRO,127740.46164075684
+policy,P0_status_quo_FY2025_26,central,p50,Western,COAL_LIGNITE,736164.7106935333
+policy,P0_status_quo_FY2025_26,central,p50,Western,NATURAL_GAS,16007.973651643124
+policy,P0_status_quo_FY2025_26,central,p50,Western,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,central,p50,Western,NUCLEAR,29776.792500608823
+policy,P0_status_quo_FY2025_26,central,p50,Western,HYDRO,29697.341444505782
+policy,P0_status_quo_FY2025_26,central,p50,Southern,COAL_LIGNITE,379116.2457900572
+policy,P0_status_quo_FY2025_26,central,p50,Southern,NATURAL_GAS,4074.529368419226
+policy,P0_status_quo_FY2025_26,central,p50,Southern,DIESEL,100.08419473594293
+policy,P0_status_quo_FY2025_26,central,p50,Southern,NUCLEAR,33902.110696582335
+policy,P0_status_quo_FY2025_26,central,p50,Southern,HYDRO,68120.39912315151
+policy,P0_status_quo_FY2025_26,central,p50,Eastern,COAL_LIGNITE,414862.76444392133
+policy,P0_status_quo_FY2025_26,central,p50,Eastern,NATURAL_GAS,0.0
+policy,P0_status_quo_FY2025_26,central,p50,Eastern,DIESEL,569.4868512979403
+policy,P0_status_quo_FY2025_26,central,p50,Eastern,NUCLEAR,0.0
+policy,P0_status_quo_FY2025_26,central,p50,Eastern,HYDRO,20238.979651630027
+policy,P0_status_quo_FY2025_26,central,p50,North Eastern,COAL_LIGNITE,5947.83501733622
+policy,P0_status_quo_FY2025_26,central,p50,North Eastern,NATURAL_GAS,11430.188946509015
+policy,P0_status_quo_FY2025_26,central,p50,North Eastern,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,central,p50,North Eastern,NUCLEAR,0.0
+policy,P0_status_quo_FY2025_26,central,p50,North Eastern,HYDRO,11327.849433263962
+policy,P0_status_quo_FY2025_26,central,p90,Northern,COAL_LIGNITE,546740.905953387
+policy,P0_status_quo_FY2025_26,central,p90,Northern,NATURAL_GAS,10738.263495918149
+policy,P0_status_quo_FY2025_26,central,p90,Northern,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,central,p90,Northern,NUCLEAR,26740.330193243593
+policy,P0_status_quo_FY2025_26,central,p90,Northern,HYDRO,161178.6708678644
+policy,P0_status_quo_FY2025_26,central,p90,Western,COAL_LIGNITE,928868.1760294487
+policy,P0_status_quo_FY2025_26,central,p90,Western,NATURAL_GAS,20198.329357191025
+policy,P0_status_quo_FY2025_26,central,p90,Western,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,central,p90,Western,NUCLEAR,37571.36757070425
+policy,P0_status_quo_FY2025_26,central,p90,Western,HYDRO,37471.11886753491
+policy,P0_status_quo_FY2025_26,central,p90,Southern,COAL_LIGNITE,478356.2844222546
+policy,P0_status_quo_FY2025_26,central,p90,Southern,NATURAL_GAS,5141.105798261454
+policy,P0_status_quo_FY2025_26,central,p90,Southern,DIESEL,126.2829120485416
+policy,P0_status_quo_FY2025_26,central,p90,Southern,NUCLEAR,42776.55702433216
+policy,P0_status_quo_FY2025_26,central,p90,Southern,HYDRO,85952.05660470901
+policy,P0_status_quo_FY2025_26,central,p90,Eastern,COAL_LIGNITE,523460.0541345199
+policy,P0_status_quo_FY2025_26,central,p90,Eastern,NATURAL_GAS,0.0
+policy,P0_status_quo_FY2025_26,central,p90,Eastern,DIESEL,718.5595902030226
+policy,P0_status_quo_FY2025_26,central,p90,Eastern,NUCLEAR,0.0
+policy,P0_status_quo_FY2025_26,central,p90,Eastern,HYDRO,25536.872170897794
+policy,P0_status_quo_FY2025_26,central,p90,North Eastern,COAL_LIGNITE,7504.780633497585
+policy,P0_status_quo_FY2025_26,central,p90,North Eastern,NATURAL_GAS,14422.232693568669
+policy,P0_status_quo_FY2025_26,central,p90,North Eastern,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,central,p90,North Eastern,NUCLEAR,0.0
+policy,P0_status_quo_FY2025_26,central,p90,North Eastern,HYDRO,14293.104095548642
+policy,P0_status_quo_FY2025_26,high,p10,Northern,COAL_LIGNITE,542365.6852769927
+policy,P0_status_quo_FY2025_26,high,p10,Northern,NATURAL_GAS,10652.3319843661
+policy,P0_status_quo_FY2025_26,high,p10,Northern,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,high,p10,Northern,NUCLEAR,26526.344291912348
+policy,P0_status_quo_FY2025_26,high,p10,Northern,HYDRO,159888.8601994178
+policy,P0_status_quo_FY2025_26,high,p10,Western,COAL_LIGNITE,921435.0331913031
+policy,P0_status_quo_FY2025_26,high,p10,Western,NATURAL_GAS,20036.69493900513
+policy,P0_status_quo_FY2025_26,high,p10,Western,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,high,p10,Western,NUCLEAR,37270.707747292814
+policy,P0_status_quo_FY2025_26,high,p10,Western,HYDRO,37171.26127090787
+policy,P0_status_quo_FY2025_26,high,p10,Southern,COAL_LIGNITE,474528.3024960846
+policy,P0_status_quo_FY2025_26,high,p10,Southern,NATURAL_GAS,5099.964789525588
+policy,P0_status_quo_FY2025_26,high,p10,Southern,DIESEL,125.27235000378904
+policy,P0_status_quo_FY2025_26,high,p10,Southern,NUCLEAR,42434.24337133877
+policy,P0_status_quo_FY2025_26,high,p10,Southern,HYDRO,85264.23681449273
+policy,P0_status_quo_FY2025_26,high,p10,Eastern,COAL_LIGNITE,519271.13534834975
+policy,P0_status_quo_FY2025_26,high,p10,Eastern,NATURAL_GAS,0.0
+policy,P0_status_quo_FY2025_26,high,p10,Eastern,DIESEL,712.8094135799736
+policy,P0_status_quo_FY2025_26,high,p10,Eastern,NUCLEAR,0.0
+policy,P0_status_quo_FY2025_26,high,p10,Eastern,HYDRO,25332.51678077434
+policy,P0_status_quo_FY2025_26,high,p10,North Eastern,COAL_LIGNITE,7444.724634317818
+policy,P0_status_quo_FY2025_26,high,p10,North Eastern,NATURAL_GAS,14306.820713243846
+policy,P0_status_quo_FY2025_26,high,p10,North Eastern,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,high,p10,North Eastern,NUCLEAR,0.0
+policy,P0_status_quo_FY2025_26,high,p10,North Eastern,HYDRO,14178.725449488398
+policy,P0_status_quo_FY2025_26,high,p50,Northern,COAL_LIGNITE,679821.8384145884
+policy,P0_status_quo_FY2025_26,high,p50,Northern,NATURAL_GAS,13352.039241490764
+policy,P0_status_quo_FY2025_26,high,p50,Northern,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,high,p50,Northern,NUCLEAR,33249.13178041888
+policy,P0_status_quo_FY2025_26,high,p50,Northern,HYDRO,200410.7963198844
+policy,P0_status_quo_FY2025_26,high,p50,Western,COAL_LIGNITE,1154961.818657268
+policy,P0_status_quo_FY2025_26,high,p50,Western,NATURAL_GAS,25114.757734595936
+policy,P0_status_quo_FY2025_26,high,p50,Western,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,high,p50,Western,NUCLEAR,46716.526778218955
+policy,P0_status_quo_FY2025_26,high,p50,Western,HYDRO,46591.87677139524
+policy,P0_status_quo_FY2025_26,high,p50,Southern,COAL_LIGNITE,594791.8751869726
+policy,P0_status_quo_FY2025_26,high,p50,Southern,NATURAL_GAS,6392.490404915616
+policy,P0_status_quo_FY2025_26,high,p50,Southern,DIESEL,157.0211419968392
+policy,P0_status_quo_FY2025_26,high,p50,Southern,NUCLEAR,53188.69929195689
+policy,P0_status_quo_FY2025_26,high,p50,Southern,HYDRO,106873.44681990094
+policy,P0_status_quo_FY2025_26,high,p50,Eastern,COAL_LIGNITE,650874.2485962608
+policy,P0_status_quo_FY2025_26,high,p50,Eastern,NATURAL_GAS,0.0
+policy,P0_status_quo_FY2025_26,high,p50,Eastern,DIESEL,893.4625090310445
+policy,P0_status_quo_FY2025_26,high,p50,Eastern,NUCLEAR,0.0
+policy,P0_status_quo_FY2025_26,high,p50,Eastern,HYDRO,31752.742839638064
+policy,P0_status_quo_FY2025_26,high,p50,North Eastern,COAL_LIGNITE,9331.50183480707
+policy,P0_status_quo_FY2025_26,high,p50,North Eastern,NATURAL_GAS,17932.71481409213
+policy,P0_status_quo_FY2025_26,high,p50,North Eastern,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,high,p50,North Eastern,NUCLEAR,0.0
+policy,P0_status_quo_FY2025_26,high,p50,North Eastern,HYDRO,17772.155324244028
+policy,P0_status_quo_FY2025_26,high,p90,Northern,COAL_LIGNITE,851791.2744977784
+policy,P0_status_quo_FY2025_26,high,p90,Northern,NATURAL_GAS,16729.60455224133
+policy,P0_status_quo_FY2025_26,high,p90,Northern,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,high,p90,Northern,NUCLEAR,41659.91548791033
+policy,P0_status_quo_FY2025_26,high,p90,Northern,HYDRO,251107.21364664793
+policy,P0_status_quo_FY2025_26,high,p90,Western,COAL_LIGNITE,1447123.8549862318
+policy,P0_status_quo_FY2025_26,high,p90,Western,NATURAL_GAS,31467.84979627
+policy,P0_status_quo_FY2025_26,high,p90,Western,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,high,p90,Western,NUCLEAR,58534.056477693135
+policy,P0_status_quo_FY2025_26,high,p90,Western,HYDRO,58377.874692732934
+policy,P0_status_quo_FY2025_26,high,p90,Southern,COAL_LIGNITE,745251.9186614628
+policy,P0_status_quo_FY2025_26,high,p90,Southern,NATURAL_GAS,8009.550799245174
+policy,P0_status_quo_FY2025_26,high,p90,Southern,DIESEL,196.74160361853166
+policy,P0_status_quo_FY2025_26,high,p90,Southern,NUCLEAR,66643.44597171567
+policy,P0_status_quo_FY2025_26,high,p90,Southern,HYDRO,133908.42178443974
+policy,P0_status_quo_FY2025_26,high,p90,Eastern,COAL_LIGNITE,815521.0298076469
+policy,P0_status_quo_FY2025_26,high,p90,Eastern,NATURAL_GAS,0.0
+policy,P0_status_quo_FY2025_26,high,p90,Eastern,DIESEL,1119.4750246010994
+policy,P0_status_quo_FY2025_26,high,p90,Eastern,NUCLEAR,0.0
+policy,P0_status_quo_FY2025_26,high,p90,Eastern,HYDRO,39784.996250269185
+policy,P0_status_quo_FY2025_26,high,p90,North Eastern,COAL_LIGNITE,11692.021926487876
+policy,P0_status_quo_FY2025_26,high,p90,North Eastern,NATURAL_GAS,22469.019298237563
+policy,P0_status_quo_FY2025_26,high,p90,North Eastern,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,high,p90,North Eastern,NUCLEAR,0.0
+policy,P0_status_quo_FY2025_26,high,p90,North Eastern,HYDRO,22267.844277427153
+policy,P0_status_quo_FY2025_26,low,p10,Northern,COAL_LIGNITE,229980.1488770385
+policy,P0_status_quo_FY2025_26,low,p10,Northern,NATURAL_GAS,4516.924580877569
+policy,P0_status_quo_FY2025_26,low,p10,Northern,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,low,p10,Northern,NUCLEAR,11248.006234579474
+policy,P0_status_quo_FY2025_26,low,p10,Northern,HYDRO,67797.91729202516
+policy,P0_status_quo_FY2025_26,low,p10,Western,COAL_LIGNITE,390717.5027225938
+policy,P0_status_quo_FY2025_26,low,p10,Western,NATURAL_GAS,8496.190319862915
+policy,P0_status_quo_FY2025_26,low,p10,Western,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,low,p10,Western,NUCLEAR,15803.95506050022
+policy,P0_status_quo_FY2025_26,low,p10,Western,HYDRO,15761.786619418586
+policy,P0_status_quo_FY2025_26,low,p10,Southern,COAL_LIGNITE,201214.9599742521
+policy,P0_status_quo_FY2025_26,low,p10,Southern,NATURAL_GAS,2162.5458494184422
+policy,P0_status_quo_FY2025_26,low,p10,Southern,DIESEL,53.11942566818958
+policy,P0_status_quo_FY2025_26,low,p10,Southern,NUCLEAR,17993.456947854145
+policy,P0_status_quo_FY2025_26,low,p10,Southern,HYDRO,36154.72440235506
+policy,P0_status_quo_FY2025_26,low,p10,Eastern,COAL_LIGNITE,220187.3316413298
+policy,P0_status_quo_FY2025_26,low,p10,Eastern,NATURAL_GAS,0.0
+policy,P0_status_quo_FY2025_26,low,p10,Eastern,DIESEL,302.25366299188863
+policy,P0_status_quo_FY2025_26,low,p10,Eastern,NUCLEAR,0.0
+policy,P0_status_quo_FY2025_26,low,p10,Eastern,HYDRO,10741.785733913393
+policy,P0_status_quo_FY2025_26,low,p10,North Eastern,COAL_LIGNITE,3156.797943207925
+policy,P0_status_quo_FY2025_26,low,p10,North Eastern,NATURAL_GAS,6066.543011305241
+policy,P0_status_quo_FY2025_26,low,p10,North Eastern,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,low,p10,North Eastern,NUCLEAR,0.0
+policy,P0_status_quo_FY2025_26,low,p10,North Eastern,HYDRO,6012.226581212737
+policy,P0_status_quo_FY2025_26,low,p50,Northern,COAL_LIGNITE,288156.478864653
+policy,P0_status_quo_FY2025_26,low,p50,Northern,NATURAL_GAS,5659.536655134452
+policy,P0_status_quo_FY2025_26,low,p50,Northern,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,low,p50,Northern,NUCLEAR,14093.32886612323
+policy,P0_status_quo_FY2025_26,low,p50,Northern,HYDRO,84948.24104002252
+policy,P0_status_quo_FY2025_26,low,p50,Western,COAL_LIGNITE,489554.33921181335
+policy,P0_status_quo_FY2025_26,low,p50,Western,NATURAL_GAS,10645.406998343253
+policy,P0_status_quo_FY2025_26,low,p50,Western,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,low,p50,Western,NUCLEAR,19801.76143291311
+policy,P0_status_quo_FY2025_26,low,p50,Western,HYDRO,19748.925961849072
+policy,P0_status_quo_FY2025_26,low,p50,Southern,COAL_LIGNITE,252114.77879368176
+policy,P0_status_quo_FY2025_26,low,p50,Southern,NATURAL_GAS,2709.588633604038
+policy,P0_status_quo_FY2025_26,low,p50,Southern,DIESEL,66.5566429737467
+policy,P0_status_quo_FY2025_26,low,p50,Southern,NUCLEAR,22545.124968453485
+policy,P0_status_quo_FY2025_26,low,p50,Southern,HYDRO,45300.510191750494
+policy,P0_status_quo_FY2025_26,low,p50,Eastern,COAL_LIGNITE,275886.4470963212
+policy,P0_status_quo_FY2025_26,low,p50,Eastern,NATURAL_GAS,0.0
+policy,P0_status_quo_FY2025_26,low,p50,Eastern,DIESEL,378.71247443297005
+policy,P0_status_quo_FY2025_26,low,p50,Eastern,NUCLEAR,0.0
+policy,P0_status_quo_FY2025_26,low,p50,Eastern,HYDRO,13459.05361361424
+policy,P0_status_quo_FY2025_26,low,p50,North Eastern,COAL_LIGNITE,3955.3491214075607
+policy,P0_status_quo_FY2025_26,low,p50,North Eastern,NATURAL_GAS,7601.150279945839
+policy,P0_status_quo_FY2025_26,low,p50,North Eastern,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,low,p50,North Eastern,NUCLEAR,0.0
+policy,P0_status_quo_FY2025_26,low,p50,North Eastern,HYDRO,7533.093835438001
+policy,P0_status_quo_FY2025_26,low,p90,Northern,COAL_LIGNITE,363009.7180882892
+policy,P0_status_quo_FY2025_26,low,p90,Northern,NATURAL_GAS,7129.691526580872
+policy,P0_status_quo_FY2025_26,low,p90,Northern,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,low,p90,Northern,NUCLEAR,17754.295717293
+policy,P0_status_quo_FY2025_26,low,p90,Northern,HYDRO,107014.90090916463
+policy,P0_status_quo_FY2025_26,low,p90,Western,COAL_LIGNITE,616723.8833788321
+policy,P0_status_quo_FY2025_26,low,p90,Western,NATURAL_GAS,13410.721177012945
+policy,P0_status_quo_FY2025_26,low,p90,Western,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,low,p90,Western,NUCLEAR,24945.58464808856
+policy,P0_status_quo_FY2025_26,low,p90,Western,HYDRO,24879.02432110378
+policy,P0_status_quo_FY2025_26,low,p90,Southern,COAL_LIGNITE,317605.6118411025
+policy,P0_status_quo_FY2025_26,low,p90,Southern,NATURAL_GAS,3413.4474778956273
+policy,P0_status_quo_FY2025_26,low,p90,Southern,DIESEL,83.84579204325641
+policy,P0_status_quo_FY2025_26,low,p90,Southern,NUCLEAR,28401.580597143617
+policy,P0_status_quo_FY2025_26,low,p90,Southern,HYDRO,57068.03990233031
+policy,P0_status_quo_FY2025_26,low,p90,Eastern,COAL_LIGNITE,347552.34995724494
+policy,P0_status_quo_FY2025_26,low,p90,Eastern,NATURAL_GAS,0.0
+policy,P0_status_quo_FY2025_26,low,p90,Eastern,DIESEL,477.08907716422897
+policy,P0_status_quo_FY2025_26,low,p90,Eastern,NUCLEAR,0.0
+policy,P0_status_quo_FY2025_26,low,p90,Eastern,HYDRO,16955.257356223177
+policy,P0_status_quo_FY2025_26,low,p90,North Eastern,COAL_LIGNITE,4982.81411252714
+policy,P0_status_quo_FY2025_26,low,p90,North Eastern,NATURAL_GAS,9575.670243964552
+policy,P0_status_quo_FY2025_26,low,p90,North Eastern,DIESEL,0.0
+policy,P0_status_quo_FY2025_26,low,p90,North Eastern,NUCLEAR,0.0
+policy,P0_status_quo_FY2025_26,low,p90,North Eastern,HYDRO,9489.935053028645
+policy,P1_historical_average,central,p10,Northern,COAL_LIGNITE,338323.3724873775
+policy,P1_historical_average,central,p10,Northern,NATURAL_GAS,10952.314370956763
+policy,P1_historical_average,central,p10,Northern,DIESEL,0.0
+policy,P1_historical_average,central,p10,Northern,NUCLEAR,16213.347479073736
+policy,P1_historical_average,central,p10,Northern,HYDRO,102513.96987913258
+policy,P1_historical_average,central,p10,Western,COAL_LIGNITE,575675.0752871524
+policy,P1_historical_average,central,p10,Western,NATURAL_GAS,20632.89669038235
+policy,P1_historical_average,central,p10,Western,DIESEL,0.0
+policy,P1_historical_average,central,p10,Western,NUCLEAR,22815.80716204718
+policy,P1_historical_average,central,p10,Western,HYDRO,23869.59511508631
+policy,P1_historical_average,central,p10,Southern,COAL_LIGNITE,297994.54010014713
+policy,P1_historical_average,central,p10,Southern,NATURAL_GAS,5278.794745054274
+policy,P1_historical_average,central,p10,Southern,DIESEL,50.38835394438216
+policy,P1_historical_average,central,p10,Southern,NUCLEAR,26110.67751503899
+policy,P1_historical_average,central,p10,Southern,HYDRO,55034.89526921814
+policy,P1_historical_average,central,p10,Eastern,COAL_LIGNITE,328387.36312063196
+policy,P1_historical_average,central,p10,Eastern,NATURAL_GAS,0.0
+policy,P1_historical_average,central,p10,Eastern,DIESEL,288.7316820675454
+policy,P1_historical_average,central,p10,Eastern,NUCLEAR,0.0
+policy,P1_historical_average,central,p10,Eastern,HYDRO,16466.285527655906
+policy,P1_historical_average,central,p10,North Eastern,COAL_LIGNITE,3712.7924139648185
+policy,P1_historical_average,central,p10,North Eastern,NATURAL_GAS,11760.250581152572
+policy,P1_historical_average,central,p10,North Eastern,DIESEL,0.0
+policy,P1_historical_average,central,p10,North Eastern,NUCLEAR,0.0
+policy,P1_historical_average,central,p10,North Eastern,HYDRO,7267.989163708699
+policy,P1_historical_average,central,p50,Northern,COAL_LIGNITE,427063.6367770579
+policy,P1_historical_average,central,p50,Northern,NATURAL_GAS,13825.043100032746
+policy,P1_historical_average,central,p50,Northern,DIESEL,0.0
+policy,P1_historical_average,central,p50,Northern,NUCLEAR,20466.01477112462
+policy,P1_historical_average,central,p50,Northern,HYDRO,129402.79140386457
+policy,P1_historical_average,central,p50,Western,COAL_LIGNITE,726671.3187638558
+policy,P1_historical_average,central,p50,Western,NATURAL_GAS,26044.78618505364
+policy,P1_historical_average,central,p50,Western,DIESEL,0.0
+policy,P1_historical_average,central,p50,Western,NUCLEAR,28800.261451021783
+policy,P1_historical_average,central,p50,Western,HYDRO,30130.451890742414
+policy,P1_historical_average,central,p50,Southern,COAL_LIGNITE,376156.784851226
+policy,P1_historical_average,central,p50,Southern,NATURAL_GAS,6663.392082693336
+policy,P1_historical_average,central,p50,Southern,DIESEL,63.60492781946443
+policy,P1_historical_average,central,p50,Southern,NUCLEAR,32959.35724541623
+policy,P1_historical_average,central,p50,Southern,HYDRO,69470.23006574482
+policy,P1_historical_average,central,p50,Eastern,COAL_LIGNITE,414521.4696071808
+policy,P1_historical_average,central,p50,Eastern,NATURAL_GAS,0.0
+policy,P1_historical_average,central,p50,Eastern,DIESEL,364.4643327180229
+policy,P1_historical_average,central,p50,Eastern,NUCLEAR,0.0
+policy,P1_historical_average,central,p50,Eastern,HYDRO,20785.2970072664
+policy,P1_historical_average,central,p50,North Eastern,COAL_LIGNITE,4686.636395377161
+policy,P1_historical_average,central,p50,North Eastern,NATURAL_GAS,14844.89630637003
+policy,P1_historical_average,central,p50,North Eastern,DIESEL,0.0
+policy,P1_historical_average,central,p50,North Eastern,NUCLEAR,0.0
+policy,P1_historical_average,central,p50,North Eastern,HYDRO,9174.340695085986
+policy,P1_historical_average,central,p90,Northern,COAL_LIGNITE,538854.7095226761
+policy,P1_historical_average,central,p90,Northern,NATURAL_GAS,17443.980105699382
+policy,P1_historical_average,central,p90,Northern,DIESEL,0.0
+policy,P1_historical_average,central,p90,Northern,NUCLEAR,25823.33754240536
+policy,P1_historical_average,central,p90,Northern,HYDRO,163276.14333915783
+policy,P1_historical_average,central,p90,Western,COAL_LIGNITE,916889.7294699221
+policy,P1_historical_average,central,p90,Western,NATURAL_GAS,32862.44598168332
+policy,P1_historical_average,central,p90,Western,DIESEL,0.0
+policy,P1_historical_average,central,p90,Western,NUCLEAR,36339.21313340244
+policy,P1_historical_average,central,p90,Western,HYDRO,38017.60324035435
+policy,P1_historical_average,central,p90,Southern,COAL_LIGNITE,474622.1349250684
+policy,P1_historical_average,central,p90,Southern,NATURAL_GAS,8407.646767242404
+policy,P1_historical_average,central,p90,Southern,DIESEL,80.25458492093638
+policy,P1_historical_average,central,p90,Southern,NUCLEAR,41587.02203860165
+policy,P1_historical_average,central,p90,Southern,HYDRO,87655.22844571396
+policy,P1_historical_average,central,p90,Eastern,COAL_LIGNITE,523029.4196475819
+policy,P1_historical_average,central,p90,Eastern,NATURAL_GAS,0.0
+policy,P1_historical_average,central,p90,Eastern,DIESEL,459.8689872551017
+policy,P1_historical_average,central,p90,Eastern,NUCLEAR,0.0
+policy,P1_historical_average,central,p90,Eastern,HYDRO,26226.197261182435
+policy,P1_historical_average,central,p90,North Eastern,COAL_LIGNITE,5913.442110239225
+policy,P1_historical_average,central,p90,North Eastern,NATURAL_GAS,18730.797001195304
+policy,P1_historical_average,central,p90,North Eastern,DIESEL,0.0
+policy,P1_historical_average,central,p90,North Eastern,NUCLEAR,0.0
+policy,P1_historical_average,central,p90,North Eastern,HYDRO,11575.87831083212
+policy,P1_historical_average,high,p10,Northern,COAL_LIGNITE,534542.5970741574
+policy,P1_historical_average,high,p10,Northern,NATURAL_GAS,17304.386997508613
+policy,P1_historical_average,high,p10,Northern,DIESEL,0.0
+policy,P1_historical_average,high,p10,Northern,NUCLEAR,25616.689751616712
+policy,P1_historical_average,high,p10,Northern,HYDRO,161969.54792893562
+policy,P1_historical_average,high,p10,Western,COAL_LIGNITE,909552.4425417469
+policy,P1_historical_average,high,p10,Western,NATURAL_GAS,32599.46867091262
+policy,P1_historical_average,high,p10,Western,DIESEL,0.0
+policy,P1_historical_average,high,p10,Western,NUCLEAR,36048.41346040576
+policy,P1_historical_average,high,p10,Western,HYDRO,37713.37247592288
+policy,P1_historical_average,high,p10,Southern,COAL_LIGNITE,470824.03502877936
+policy,P1_historical_average,high,p10,Southern,NATURAL_GAS,8340.36570307599
+policy,P1_historical_average,high,p10,Southern,DIESEL,79.61235838273863
+policy,P1_historical_average,high,p10,Southern,NUCLEAR,41254.2274795853
+policy,P1_historical_average,high,p10,Southern,HYDRO,86953.77925156415
+policy,P1_historical_average,high,p10,Eastern,COAL_LIGNITE,518843.9469560623
+policy,P1_historical_average,high,p10,Eastern,NATURAL_GAS,0.0
+policy,P1_historical_average,high,p10,Eastern,DIESEL,456.1889474417964
+policy,P1_historical_average,high,p10,Eastern,NUCLEAR,0.0
+policy,P1_historical_average,high,p10,Eastern,HYDRO,26016.325639595547
+policy,P1_historical_average,high,p10,North Eastern,COAL_LIGNITE,5866.120583886144
+policy,P1_historical_average,high,p10,North Eastern,NATURAL_GAS,18580.906313608884
+policy,P1_historical_average,high,p10,North Eastern,DIESEL,0.0
+policy,P1_historical_average,high,p10,North Eastern,NUCLEAR,0.0
+policy,P1_historical_average,high,p10,North Eastern,HYDRO,11483.243899209558
+policy,P1_historical_average,high,p50,Northern,COAL_LIGNITE,670016.0812510808
+policy,P1_historical_average,high,p50,Northern,NATURAL_GAS,21689.97873693201
+policy,P1_historical_average,high,p50,Northern,DIESEL,0.0
+policy,P1_historical_average,high,p50,Northern,NUCLEAR,32108.93608095719
+policy,P1_historical_average,high,p50,Northern,HYDRO,203018.8096876764
+policy,P1_historical_average,high,p50,Western,COAL_LIGNITE,1140067.726276314
+policy,P1_historical_average,high,p50,Western,NATURAL_GAS,40861.41753586399
+policy,P1_historical_average,high,p50,Western,DIESEL,0.0
+policy,P1_historical_average,high,p50,Western,NUCLEAR,45184.45649469731
+policy,P1_historical_average,high,p50,Western,HYDRO,47271.37963445539
+policy,P1_historical_average,high,p50,Southern,COAL_LIGNITE,590148.8050446997
+policy,P1_historical_average,high,p50,Southern,NATURAL_GAS,10454.132514720131
+policy,P1_historical_average,high,p50,Southern,DIESEL,99.78916680303233
+policy,P1_historical_average,high,p50,Southern,NUCLEAR,51709.62236163523
+policy,P1_historical_average,high,p50,Southern,HYDRO,108991.18375784381
+policy,P1_historical_average,high,p50,Eastern,COAL_LIGNITE,650338.7943694917
+policy,P1_historical_average,high,p50,Eastern,NATURAL_GAS,0.0
+policy,P1_historical_average,high,p50,Eastern,DIESEL,571.804628009102
+policy,P1_historical_average,high,p50,Eastern,NUCLEAR,0.0
+policy,P1_historical_average,high,p50,Eastern,HYDRO,32609.854947024127
+policy,P1_historical_average,high,p50,North Eastern,COAL_LIGNITE,7352.819302474464
+policy,P1_historical_average,high,p50,North Eastern,NATURAL_GAS,23290.016740444284
+policy,P1_historical_average,high,p50,North Eastern,DIESEL,0.0
+policy,P1_historical_average,high,p50,North Eastern,NUCLEAR,0.0
+policy,P1_historical_average,high,p50,North Eastern,HYDRO,14393.535930554444
+policy,P1_historical_average,high,p90,Northern,COAL_LIGNITE,839505.0284260155
+policy,P1_historical_average,high,p90,Northern,NATURAL_GAS,27176.73011983158
+policy,P1_historical_average,high,p90,Northern,DIESEL,0.0
+policy,P1_historical_average,high,p90,Northern,NUCLEAR,40231.2930266397
+policy,P1_historical_average,high,p90,Northern,HYDRO,254374.95661242175
+policy,P1_historical_average,high,p90,Western,COAL_LIGNITE,1428462.1156675192
+policy,P1_historical_average,high,p90,Western,NATURAL_GAS,51197.824126728716
+policy,P1_historical_average,high,p90,Western,DIESEL,0.0
+policy,P1_historical_average,high,p90,Western,NUCLEAR,56614.429855423325
+policy,P1_historical_average,high,p90,Western,HYDRO,59229.266303071185
+policy,P1_historical_average,high,p90,Southern,COAL_LIGNITE,739434.3258590716
+policy,P1_historical_average,high,p90,Southern,NATURAL_GAS,13098.636076841627
+policy,P1_historical_average,high,p90,Southern,DIESEL,125.03208453916933
+policy,P1_historical_average,high,p90,Southern,NUCLEAR,64790.21803408852
+policy,P1_historical_average,high,p90,Southern,HYDRO,136561.86676588992
+policy,P1_historical_average,high,p90,Eastern,COAL_LIGNITE,814850.1257376649
+policy,P1_historical_average,high,p90,Eastern,NATURAL_GAS,0.0
+policy,P1_historical_average,high,p90,Eastern,DIESEL,716.4497598245281
+policy,P1_historical_average,high,p90,Eastern,NUCLEAR,0.0
+policy,P1_historical_average,high,p90,Eastern,HYDRO,40858.92558452017
+policy,P1_historical_average,high,p90,North Eastern,COAL_LIGNITE,9212.80690160334
+policy,P1_historical_average,high,p90,North Eastern,NATURAL_GAS,29181.517746888432
+policy,P1_historical_average,high,p90,North Eastern,DIESEL,0.0
+policy,P1_historical_average,high,p90,North Eastern,NUCLEAR,0.0
+policy,P1_historical_average,high,p90,North Eastern,HYDRO,18034.560854074258
+policy,P1_historical_average,low,p10,Northern,COAL_LIGNITE,226662.91285269923
+policy,P1_historical_average,low,p10,Northern,NATURAL_GAS,7337.605615444602
+policy,P1_historical_average,low,p10,Northern,DIESEL,0.0
+policy,P1_historical_average,low,p10,Northern,NUCLEAR,10862.284032229925
+policy,P1_historical_average,low,p10,Northern,HYDRO,68680.19448394736
+policy,P1_historical_average,low,p10,Western,COAL_LIGNITE,385678.90968322364
+policy,P1_historical_average,low,p10,Western,NATURAL_GAS,13823.202429224322
+policy,P1_historical_average,low,p10,Western,DIESEL,0.0
+policy,P1_historical_average,low,p10,Western,NUCLEAR,15285.663749488758
+policy,P1_historical_average,low,p10,Western,HYDRO,15991.658860641928
+policy,P1_historical_average,low,p10,Southern,COAL_LIGNITE,199644.23378943422
+policy,P1_historical_average,low,p10,Southern,NATURAL_GAS,3536.577991844664
+policy,P1_historical_average,low,p10,Southern,DIESEL,33.758149769308545
+policy,P1_historical_average,low,p10,Southern,NUCLEAR,17493.093009224554
+policy,P1_historical_average,low,p10,Southern,HYDRO,36871.14365925054
+policy,P1_historical_average,low,p10,Eastern,COAL_LIGNITE,220006.19029569565
+policy,P1_historical_average,low,p10,Eastern,NATURAL_GAS,0.0
+policy,P1_historical_average,low,p10,Eastern,DIESEL,193.43849527490445
+policy,P1_historical_average,low,p10,Eastern,NUCLEAR,0.0
+policy,P1_historical_average,low,p10,Eastern,HYDRO,11031.742247432176
+policy,P1_historical_average,low,p10,North Eastern,COAL_LIGNITE,2487.42005962969
+policy,P1_historical_average,low,p10,North Eastern,NATURAL_GAS,7878.890048310634
+policy,P1_historical_average,low,p10,North Eastern,DIESEL,0.0
+policy,P1_historical_average,low,p10,North Eastern,NUCLEAR,0.0
+policy,P1_historical_average,low,p10,North Eastern,HYDRO,4869.257427639084
+policy,P1_historical_average,low,p50,Northern,COAL_LIGNITE,284000.1068603559
+policy,P1_historical_average,low,p50,Northern,NATURAL_GAS,9193.743928631415
+policy,P1_historical_average,low,p50,Northern,DIESEL,0.0
+policy,P1_historical_average,low,p50,Northern,NUCLEAR,13610.03345044632
+policy,P1_historical_average,low,p50,Northern,HYDRO,86053.70118624943
+policy,P1_historical_average,low,p50,Western,COAL_LIGNITE,483241.17159388517
+policy,P1_historical_average,low,p50,Western,NATURAL_GAS,17319.952865880972
+policy,P1_historical_average,low,p50,Western,DIESEL,0.0
+policy,P1_historical_average,low,p50,Western,NUCLEAR,19152.36190892611
+policy,P1_historical_average,low,p50,Western,HYDRO,20036.947236481163
+policy,P1_historical_average,low,p50,Southern,COAL_LIGNITE,250146.7179463101
+policy,P1_historical_average,low,p50,Southern,NATURAL_GAS,4431.19924191827
+policy,P1_historical_average,low,p50,Southern,DIESEL,42.29769229217492
+policy,P1_historical_average,low,p50,Southern,NUCLEAR,21918.187767958687
+policy,P1_historical_average,low,p50,Southern,HYDRO,46198.15658195355
+policy,P1_historical_average,low,p50,Eastern,COAL_LIGNITE,275659.48380149086
+policy,P1_historical_average,low,p50,Eastern,NATURAL_GAS,0.0
+policy,P1_historical_average,low,p50,Eastern,DIESEL,242.37116093483172
+policy,P1_historical_average,low,p50,Eastern,NUCLEAR,0.0
+policy,P1_historical_average,low,p50,Eastern,HYDRO,13822.358222152916
+policy,P1_historical_average,low,p50,North Eastern,COAL_LIGNITE,3116.6438031285234
+policy,P1_historical_average,low,p50,North Eastern,NATURAL_GAS,9871.952969718344
+policy,P1_historical_average,low,p50,North Eastern,DIESEL,0.0
+policy,P1_historical_average,low,p50,North Eastern,NUCLEAR,0.0
+policy,P1_historical_average,low,p50,North Eastern,HYDRO,6100.996463760981
+policy,P1_historical_average,low,p90,Northern,COAL_LIGNITE,357773.6621943017
+policy,P1_historical_average,low,p90,Northern,NATURAL_GAS,11581.9654822892
+policy,P1_historical_average,low,p90,Northern,DIESEL,0.0
+policy,P1_historical_average,low,p90,Northern,NUCLEAR,17145.456612618076
+policy,P1_historical_average,low,p90,Northern,HYDRO,108407.52195180353
+policy,P1_historical_average,low,p90,Western,COAL_LIGNITE,608770.769826578
+policy,P1_historical_average,low,p90,Western,NATURAL_GAS,21819.086740364648
+policy,P1_historical_average,low,p90,Western,DIESEL,0.0
+policy,P1_historical_average,low,p90,Western,NUCLEAR,24127.49324491068
+policy,P1_historical_average,low,p90,Western,HYDRO,25241.863713504663
+policy,P1_historical_average,low,p90,Southern,COAL_LIGNITE,315126.3158134723
+policy,P1_historical_average,low,p90,Southern,NATURAL_GAS,5582.273887922317
+policy,P1_historical_average,low,p90,Southern,DIESEL,53.285192181917246
+policy,P1_historical_average,low,p90,Southern,NUCLEAR,27611.78646408309
+policy,P1_historical_average,low,p90,Southern,HYDRO,58198.864252816755
+policy,P1_historical_average,low,p90,Eastern,COAL_LIGNITE,347266.42932829546
+policy,P1_historical_average,low,p90,Eastern,NATURAL_GAS,0.0
+policy,P1_historical_average,low,p90,Eastern,DIESEL,305.33093390903866
+policy,P1_historical_average,low,p90,Eastern,NUCLEAR,0.0
+policy,P1_historical_average,low,p90,Eastern,HYDRO,17412.936128692316
+policy,P1_historical_average,low,p90,North Eastern,COAL_LIGNITE,3926.241717045352
+policy,P1_historical_average,low,p90,North Eastern,NATURAL_GAS,12436.35013391987
+policy,P1_historical_average,low,p90,North Eastern,DIESEL,0.0
+policy,P1_historical_average,low,p90,North Eastern,NUCLEAR,0.0
+policy,P1_historical_average,low,p90,North Eastern,HYDRO,7685.827558323881
+policy,P2_demonstrated_max_share,central,p10,Northern,COAL_LIGNITE,316484.89170535153
+policy,P2_demonstrated_max_share,central,p10,Northern,NATURAL_GAS,18403.558685840886
+policy,P2_demonstrated_max_share,central,p10,Northern,DIESEL,0.0
+policy,P2_demonstrated_max_share,central,p10,Northern,NUCLEAR,17005.06360255547
+policy,P2_demonstrated_max_share,central,p10,Northern,HYDRO,116109.49022284552
+policy,P2_demonstrated_max_share,central,p10,Western,COAL_LIGNITE,554772.8370529913
+policy,P2_demonstrated_max_share,central,p10,Western,NATURAL_GAS,35716.82896489131
+policy,P2_demonstrated_max_share,central,p10,Western,DIESEL,0.0
+policy,P2_demonstrated_max_share,central,p10,Western,NUCLEAR,24652.342275610747
+policy,P2_demonstrated_max_share,central,p10,Western,HYDRO,27851.365961224707
+policy,P2_demonstrated_max_share,central,p10,Southern,COAL_LIGNITE,283963.02462598344
+policy,P2_demonstrated_max_share,central,p10,Southern,NATURAL_GAS,9035.728856593256
+policy,P2_demonstrated_max_share,central,p10,Southern,DIESEL,76.31677951695202
+policy,P2_demonstrated_max_share,central,p10,Southern,NUCLEAR,27896.917386683574
+policy,P2_demonstrated_max_share,central,p10,Southern,HYDRO,63497.3083346168
+policy,P2_demonstrated_max_share,central,p10,Eastern,COAL_LIGNITE,324959.39734049194
+policy,P2_demonstrated_max_share,central,p10,Eastern,NATURAL_GAS,0.0
+policy,P2_demonstrated_max_share,central,p10,Eastern,DIESEL,454.1229838018387
+policy,P2_demonstrated_max_share,central,p10,Eastern,NUCLEAR,0.0
+policy,P2_demonstrated_max_share,central,p10,Eastern,HYDRO,19728.860005940995
+policy,P2_demonstrated_max_share,central,p10,North Eastern,COAL_LIGNITE,2510.0817293766154
+policy,P2_demonstrated_max_share,central,p10,North Eastern,NATURAL_GAS,14281.660273876432
+policy,P2_demonstrated_max_share,central,p10,North Eastern,DIESEL,0.0
+policy,P2_demonstrated_max_share,central,p10,North Eastern,NUCLEAR,0.0
+policy,P2_demonstrated_max_share,central,p10,North Eastern,HYDRO,5949.290155600368
+policy,P2_demonstrated_max_share,central,p50,Northern,COAL_LIGNITE,399497.0487642656
+policy,P2_demonstrated_max_share,central,p50,Northern,NATURAL_GAS,23230.705712796862
+policy,P2_demonstrated_max_share,central,p50,Northern,DIESEL,0.0
+policy,P2_demonstrated_max_share,central,p50,Northern,NUCLEAR,21465.393455793437
+policy,P2_demonstrated_max_share,central,p50,Northern,HYDRO,146564.3381192904
+policy,P2_demonstrated_max_share,central,p50,Western,COAL_LIGNITE,700286.5443055247
+policy,P2_demonstrated_max_share,central,p50,Western,NATURAL_GAS,45085.14667416223
+policy,P2_demonstrated_max_share,central,p50,Western,DIESEL,0.0
+policy,P2_demonstrated_max_share,central,p50,Western,NUCLEAR,31118.50910533214
+policy,P2_demonstrated_max_share,central,p50,Western,HYDRO,35156.618205717205
+policy,P2_demonstrated_max_share,central,p50,Southern,COAL_LIGNITE,358444.8840037208
+policy,P2_demonstrated_max_share,central,p50,Southern,NATURAL_GAS,11405.748287674358
+policy,P2_demonstrated_max_share,central,p50,Southern,DIESEL,96.3342294917516
+policy,P2_demonstrated_max_share,central,p50,Southern,NUCLEAR,35214.11750667832
+policy,P2_demonstrated_max_share,central,p50,Southern,HYDRO,80152.28514532305
+policy,P2_demonstrated_max_share,central,p50,Eastern,COAL_LIGNITE,410194.3682247051
+policy,P2_demonstrated_max_share,central,p50,Eastern,NATURAL_GAS,0.0
+policy,P2_demonstrated_max_share,central,p50,Eastern,DIESEL,573.2368165421318
+policy,P2_demonstrated_max_share,central,p50,Eastern,NUCLEAR,0.0
+policy,P2_demonstrated_max_share,central,p50,Eastern,HYDRO,24903.62590576552
+policy,P2_demonstrated_max_share,central,p50,North Eastern,COAL_LIGNITE,3168.4616527497433
+policy,P2_demonstrated_max_share,central,p50,North Eastern,NATURAL_GAS,18027.657181750437
+policy,P2_demonstrated_max_share,central,p50,North Eastern,DIESEL,0.0
+policy,P2_demonstrated_max_share,central,p50,North Eastern,NUCLEAR,0.0
+policy,P2_demonstrated_max_share,central,p50,North Eastern,HYDRO,7509.754562367492
+policy,P2_demonstrated_max_share,central,p90,Northern,COAL_LIGNITE,504072.1045501087
+policy,P2_demonstrated_max_share,central,p90,Northern,NATURAL_GAS,29311.732727576495
+policy,P2_demonstrated_max_share,central,p90,Northern,DIESEL,0.0
+policy,P2_demonstrated_max_share,central,p90,Northern,NUCLEAR,27084.320366638374
+policy,P2_demonstrated_max_share,central,p90,Northern,HYDRO,184930.012865699
+policy,P2_demonstrated_max_share,central,p90,Western,COAL_LIGNITE,883598.2975796732
+policy,P2_demonstrated_max_share,central,p90,Western,NATURAL_GAS,56886.9403123063
+policy,P2_demonstrated_max_share,central,p90,Western,DIESEL,0.0
+policy,P2_demonstrated_max_share,central,p90,Western,NUCLEAR,39264.30100974901
+policy,P2_demonstrated_max_share,central,p90,Western,HYDRO,44359.45292371253
+policy,P2_demonstrated_max_share,central,p90,Southern,COAL_LIGNITE,452273.84683783154
+policy,P2_demonstrated_max_share,central,p90,Southern,NATURAL_GAS,14391.394282187446
+policy,P2_demonstrated_max_share,central,p90,Southern,DIESEL,121.55133047997623
+policy,P2_demonstrated_max_share,central,p90,Southern,NUCLEAR,44432.00363149696
+policy,P2_demonstrated_max_share,central,p90,Southern,HYDRO,101133.49067953698
+policy,P2_demonstrated_max_share,central,p90,Eastern,COAL_LIGNITE,517569.6268726089
+policy,P2_demonstrated_max_share,central,p90,Eastern,NATURAL_GAS,0.0
+policy,P2_demonstrated_max_share,central,p90,Eastern,DIESEL,723.291171771588
+policy,P2_demonstrated_max_share,central,p90,Eastern,NUCLEAR,0.0
+policy,P2_demonstrated_max_share,central,p90,Eastern,HYDRO,31422.567851446627
+policy,P2_demonstrated_max_share,central,p90,North Eastern,COAL_LIGNITE,3997.859654853951
+policy,P2_demonstrated_max_share,central,p90,North Eastern,NATURAL_GAS,22746.698940134105
+policy,P2_demonstrated_max_share,central,p90,North Eastern,DIESEL,0.0
+policy,P2_demonstrated_max_share,central,p90,North Eastern,NUCLEAR,0.0
+policy,P2_demonstrated_max_share,central,p90,North Eastern,HYDRO,9475.558827322093
+policy,P2_demonstrated_max_share,high,p10,Northern,COAL_LIGNITE,500038.3352268213
+policy,P2_demonstrated_max_share,high,p10,Northern,NATURAL_GAS,29077.16952278572
+policy,P2_demonstrated_max_share,high,p10,Northern,DIESEL,0.0
+policy,P2_demonstrated_max_share,high,p10,Northern,NUCLEAR,26867.581730140042
+policy,P2_demonstrated_max_share,high,p10,Northern,HYDRO,183450.13527255467
+policy,P2_demonstrated_max_share,high,p10,Western,COAL_LIGNITE,876527.4208643923
+policy,P2_demonstrated_max_share,high,p10,Western,NATURAL_GAS,56431.710211977144
+policy,P2_demonstrated_max_share,high,p10,Western,DIESEL,0.0
+policy,P2_demonstrated_max_share,high,p10,Western,NUCLEAR,38950.093713840775
+policy,P2_demonstrated_max_share,high,p10,Western,HYDRO,44004.47235885627
+policy,P2_demonstrated_max_share,high,p10,Southern,COAL_LIGNITE,448654.586115741
+policy,P2_demonstrated_max_share,high,p10,Southern,NATURAL_GAS,14276.2290821083
+policy,P2_demonstrated_max_share,high,p10,Southern,DIESEL,120.57863228130763
+policy,P2_demonstrated_max_share,high,p10,Southern,NUCLEAR,44076.442489344685
+policy,P2_demonstrated_max_share,high,p10,Southern,HYDRO,100324.18350189777
+policy,P2_demonstrated_max_share,high,p10,Eastern,COAL_LIGNITE,513427.84543955873
+policy,P2_demonstrated_max_share,high,p10,Eastern,NATURAL_GAS,0.0
+policy,P2_demonstrated_max_share,high,p10,Eastern,DIESEL,717.503131302455
+policy,P2_demonstrated_max_share,high,p10,Eastern,NUCLEAR,0.0
+policy,P2_demonstrated_max_share,high,p10,Eastern,HYDRO,31171.112972047562
+policy,P2_demonstrated_max_share,high,p10,North Eastern,COAL_LIGNITE,3965.867319850704
+policy,P2_demonstrated_max_share,high,p10,North Eastern,NATURAL_GAS,22564.671536589
+policy,P2_demonstrated_max_share,high,p10,North Eastern,DIESEL,0.0
+policy,P2_demonstrated_max_share,high,p10,North Eastern,NUCLEAR,0.0
+policy,P2_demonstrated_max_share,high,p10,North Eastern,HYDRO,9399.731940308038
+policy,P2_demonstrated_max_share,high,p50,Northern,COAL_LIGNITE,626767.1232897267
+policy,P2_demonstrated_max_share,high,p50,Northern,NATURAL_GAS,36446.433425823845
+policy,P2_demonstrated_max_share,high,p50,Northern,DIESEL,0.0
+policy,P2_demonstrated_max_share,high,p50,Northern,NUCLEAR,33676.85180199809
+policy,P2_demonstrated_max_share,high,p50,Northern,HYDRO,229943.39723920228
+policy,P2_demonstrated_max_share,high,p50,Western,COAL_LIGNITE,1098672.904369495
+policy,P2_demonstrated_max_share,high,p50,Western,NATURAL_GAS,70733.65816210175
+policy,P2_demonstrated_max_share,high,p50,Western,DIESEL,0.0
+policy,P2_demonstrated_max_share,high,p50,Western,NUCLEAR,48821.53320867989
+policy,P2_demonstrated_max_share,high,p50,Western,HYDRO,55156.88420115206
+policy,P2_demonstrated_max_share,high,p50,Southern,COAL_LIGNITE,562360.7721255025
+policy,P2_demonstrated_max_share,high,p50,Southern,NATURAL_GAS,17894.370096963354
+policy,P2_demonstrated_max_share,high,p50,Southern,DIESEL,151.13785716225888
+policy,P2_demonstrated_max_share,high,p50,Southern,NUCLEAR,55247.094308000305
+policy,P2_demonstrated_max_share,high,p50,Southern,HYDRO,125750.15845805577
+policy,P2_demonstrated_max_share,high,p50,Eastern,COAL_LIGNITE,643550.0461320108
+policy,P2_demonstrated_max_share,high,p50,Eastern,NATURAL_GAS,0.0
+policy,P2_demonstrated_max_share,high,p50,Eastern,DIESEL,899.3457938656248
+policy,P2_demonstrated_max_share,high,p50,Eastern,NUCLEAR,0.0
+policy,P2_demonstrated_max_share,high,p50,Eastern,HYDRO,39071.06201840944
+policy,P2_demonstrated_max_share,high,p50,North Eastern,COAL_LIGNITE,4970.9693763460045
+policy,P2_demonstrated_max_share,high,p50,North Eastern,NATURAL_GAS,28283.420031286576
+policy,P2_demonstrated_max_share,high,p50,North Eastern,DIESEL,0.0
+policy,P2_demonstrated_max_share,high,p50,North Eastern,NUCLEAR,0.0
+policy,P2_demonstrated_max_share,high,p50,North Eastern,HYDRO,11781.982565894728
+policy,P2_demonstrated_max_share,high,p90,Northern,COAL_LIGNITE,785315.7056638709
+policy,P2_demonstrated_max_share,high,p90,Northern,NATURAL_GAS,45666.01457093577
+policy,P2_demonstrated_max_share,high,p90,Northern,DIESEL,0.0
+policy,P2_demonstrated_max_share,high,p90,Northern,NUCLEAR,42195.83263814313
+policy,P2_demonstrated_max_share,high,p90,Northern,HYDRO,288110.4553120898
+policy,P2_demonstrated_max_share,high,p90,Western,COAL_LIGNITE,1376595.9558632877
+policy,P2_demonstrated_max_share,high,p90,Western,NATURAL_GAS,88626.62161059209
+policy,P2_demonstrated_max_share,high,p90,Western,DIESEL,0.0
+policy,P2_demonstrated_max_share,high,p90,Western,NUCLEAR,61171.550610582235
+policy,P2_demonstrated_max_share,high,p90,Western,HYDRO,69109.50786840376
+policy,P2_demonstrated_max_share,high,p90,Southern,COAL_LIGNITE,704616.9624874725
+policy,P2_demonstrated_max_share,high,p90,Southern,NATURAL_GAS,22420.974805360493
+policy,P2_demonstrated_max_share,high,p90,Southern,DIESEL,189.3700683069156
+policy,P2_demonstrated_max_share,high,p90,Southern,NUCLEAR,69222.53774997391
+policy,P2_demonstrated_max_share,high,p90,Southern,HYDRO,157560.2337092946
+policy,P2_demonstrated_max_share,high,p90,Eastern,COAL_LIGNITE,806344.0787313876
+policy,P2_demonstrated_max_share,high,p90,Eastern,NATURAL_GAS,0.0
+policy,P2_demonstrated_max_share,high,p90,Eastern,DIESEL,1126.8465599127155
+policy,P2_demonstrated_max_share,high,p90,Eastern,NUCLEAR,0.0
+policy,P2_demonstrated_max_share,high,p90,Eastern,HYDRO,48954.57579040984
+policy,P2_demonstrated_max_share,high,p90,North Eastern,COAL_LIGNITE,6228.438248529686
+policy,P2_demonstrated_max_share,high,p90,North Eastern,NATURAL_GAS,35438.064849151524
+policy,P2_demonstrated_max_share,high,p90,North Eastern,DIESEL,0.0
+policy,P2_demonstrated_max_share,high,p90,North Eastern,NUCLEAR,0.0
+policy,P2_demonstrated_max_share,high,p90,North Eastern,HYDRO,14762.382404952637
+policy,P2_demonstrated_max_share,low,p10,Northern,COAL_LIGNITE,212032.0180672188
+policy,P2_demonstrated_max_share,low,p10,Northern,NATURAL_GAS,12329.63654837036
+policy,P2_demonstrated_max_share,low,p10,Northern,DIESEL,0.0
+policy,P2_demonstrated_max_share,low,p10,Northern,NUCLEAR,11392.701666050125
+policy,P2_demonstrated_max_share,low,p10,Northern,HYDRO,77788.64070271722
+policy,P2_demonstrated_max_share,low,p10,Western,COAL_LIGNITE,371675.2593635201
+policy,P2_demonstrated_max_share,low,p10,Western,NATURAL_GAS,23928.824164656162
+policy,P2_demonstrated_max_share,low,p10,Western,DIESEL,0.0
+policy,P2_demonstrated_max_share,low,p10,Western,NUCLEAR,16516.067653706512
+policy,P2_demonstrated_max_share,low,p10,Western,HYDRO,18659.283540729175
+policy,P2_demonstrated_max_share,low,p10,Southern,COAL_LIGNITE,190243.68854856316
+policy,P2_demonstrated_max_share,low,p10,Southern,NATURAL_GAS,6053.571195288987
+policy,P2_demonstrated_max_share,low,p10,Southern,DIESEL,51.12914138231739
+policy,P2_demonstrated_max_share,low,p10,Southern,NUCLEAR,18689.801144946658
+policy,P2_demonstrated_max_share,low,p10,Southern,HYDRO,42540.61656933612
+policy,P2_demonstrated_max_share,low,p10,Eastern,COAL_LIGNITE,217709.59250768763
+policy,P2_demonstrated_max_share,low,p10,Eastern,NATURAL_GAS,0.0
+policy,P2_demonstrated_max_share,low,p10,Eastern,DIESEL,304.2439472777608
+policy,P2_demonstrated_max_share,low,p10,Eastern,NUCLEAR,0.0
+policy,P2_demonstrated_max_share,low,p10,Eastern,HYDRO,13217.534583356479
+policy,P2_demonstrated_max_share,low,p10,North Eastern,COAL_LIGNITE,1681.6527693488606
+policy,P2_demonstrated_max_share,low,p10,North Eastern,NATURAL_GAS,9568.132092825726
+policy,P2_demonstrated_max_share,low,p10,North Eastern,DIESEL,0.0
+policy,P2_demonstrated_max_share,low,p10,North Eastern,NUCLEAR,0.0
+policy,P2_demonstrated_max_share,low,p10,North Eastern,HYDRO,3985.782673423125
+policy,P2_demonstrated_max_share,low,p50,Northern,COAL_LIGNITE,265668.1458428101
+policy,P2_demonstrated_max_share,low,p50,Northern,NATURAL_GAS,15448.570978006095
+policy,P2_demonstrated_max_share,low,p50,Northern,DIESEL,0.0
+policy,P2_demonstrated_max_share,low,p50,Northern,NUCLEAR,14274.626800940528
+policy,P2_demonstrated_max_share,low,p50,Northern,HYDRO,97466.24180397068
+policy,P2_demonstrated_max_share,low,p50,Western,COAL_LIGNITE,465695.1243064074
+policy,P2_demonstrated_max_share,low,p50,Western,NATURAL_GAS,29981.91691033889
+policy,P2_demonstrated_max_share,low,p50,Western,DIESEL,0.0
+policy,P2_demonstrated_max_share,low,p50,Western,NUCLEAR,20694.01173545211
+policy,P2_demonstrated_max_share,low,p50,Western,HYDRO,23379.380653016517
+policy,P2_demonstrated_max_share,low,p50,Southern,COAL_LIGNITE,238368.18823735855
+policy,P2_demonstrated_max_share,low,p50,Southern,NATURAL_GAS,7584.897082241708
+policy,P2_demonstrated_max_share,low,p50,Southern,DIESEL,64.06289160191322
+policy,P2_demonstrated_max_share,low,p50,Southern,NUCLEAR,23417.618063582755
+policy,P2_demonstrated_max_share,low,p50,Southern,HYDRO,53301.792955640194
+policy,P2_demonstrated_max_share,low,p50,Eastern,COAL_LIGNITE,272781.9331294345
+policy,P2_demonstrated_max_share,low,p50,Eastern,NATURAL_GAS,0.0
+policy,P2_demonstrated_max_share,low,p50,Eastern,DIESEL,381.2062258048035
+policy,P2_demonstrated_max_share,low,p50,Eastern,NUCLEAR,0.0
+policy,P2_demonstrated_max_share,low,p50,Eastern,HYDRO,16561.073829237997
+policy,P2_demonstrated_max_share,low,p50,North Eastern,COAL_LIGNITE,2107.047686744674
+policy,P2_demonstrated_max_share,low,p50,North Eastern,NATURAL_GAS,11988.509732875553
+policy,P2_demonstrated_max_share,low,p50,North Eastern,DIESEL,0.0
+policy,P2_demonstrated_max_share,low,p50,North Eastern,NUCLEAR,0.0
+policy,P2_demonstrated_max_share,low,p50,North Eastern,HYDRO,4994.035817010559
+policy,P2_demonstrated_max_share,low,p90,Northern,COAL_LIGNITE,334679.68205127504
+policy,P2_demonstrated_max_share,low,p90,Northern,NATURAL_GAS,19461.58357323273
+policy,P2_demonstrated_max_share,low,p90,Northern,DIESEL,0.0
+policy,P2_demonstrated_max_share,low,p90,Northern,NUCLEAR,17982.688680960953
+policy,P2_demonstrated_max_share,low,p90,Northern,HYDRO,122784.65193559976
+policy,P2_demonstrated_max_share,low,p90,Western,COAL_LIGNITE,586666.8570341722
+policy,P2_demonstrated_max_share,low,p90,Western,NATURAL_GAS,37770.19780450857
+policy,P2_demonstrated_max_share,low,p90,Western,DIESEL,0.0
+policy,P2_demonstrated_max_share,low,p90,Western,NUCLEAR,26069.6111911149
+policy,P2_demonstrated_max_share,low,p90,Western,HYDRO,29452.54749561486
+policy,P2_demonstrated_max_share,low,p90,Southern,COAL_LIGNITE,300288.1252373399
+policy,P2_demonstrated_max_share,low,p90,Southern,NATURAL_GAS,9555.195019045588
+policy,P2_demonstrated_max_share,low,p90,Southern,DIESEL,80.70424899678986
+policy,P2_demonstrated_max_share,low,p90,Southern,NUCLEAR,29500.717683162835
+policy,P2_demonstrated_max_share,low,p90,Southern,HYDRO,67147.7834219218
+policy,P2_demonstrated_max_share,low,p90,Eastern,COAL_LIGNITE,343641.3889947809
+policy,P2_demonstrated_max_share,low,p90,Eastern,NATURAL_GAS,0.0
+policy,P2_demonstrated_max_share,low,p90,Eastern,DIESEL,480.2306202106955
+policy,P2_demonstrated_max_share,low,p90,Eastern,NUCLEAR,0.0
+policy,P2_demonstrated_max_share,low,p90,Eastern,HYDRO,20863.07677577775
+policy,P2_demonstrated_max_share,low,p90,North Eastern,COAL_LIGNITE,2654.3869142814915
+policy,P2_demonstrated_max_share,low,p90,North Eastern,NATURAL_GAS,15102.716258807322
+policy,P2_demonstrated_max_share,low,p90,North Eastern,DIESEL,0.0
+policy,P2_demonstrated_max_share,low,p90,North Eastern,NUCLEAR,0.0
+policy,P2_demonstrated_max_share,low,p90,North Eastern,HYDRO,6291.316236229181
+policy,P3_no_decline_floor,central,p10,Northern,COAL_LIGNITE,337788.60321243276
+policy,P3_no_decline_floor,central,p10,Northern,NATURAL_GAS,11554.000053184824
+policy,P3_no_decline_floor,central,p10,Northern,DIESEL,0.0
+policy,P3_no_decline_floor,central,p10,Northern,NUCLEAR,16749.479744430846
+policy,P3_no_decline_floor,central,p10,Northern,HYDRO,101910.92120651559
+policy,P3_no_decline_floor,central,p10,Western,COAL_LIGNITE,574017.3793811124
+policy,P3_no_decline_floor,central,p10,Western,NATURAL_GAS,21738.085450398146
+policy,P3_no_decline_floor,central,p10,Western,DIESEL,0.0
+policy,P3_no_decline_floor,central,p10,Western,NUCLEAR,23539.60076733478
+policy,P3_no_decline_floor,central,p10,Western,HYDRO,23698.30865581614
+policy,P3_no_decline_floor,central,p10,Southern,COAL_LIGNITE,297224.3433919231
+policy,P3_no_decline_floor,central,p10,Southern,NATURAL_GAS,5563.1954457760485
+policy,P3_no_decline_floor,central,p10,Southern,DIESEL,78.6601011686677
+policy,P3_no_decline_floor,central,p10,Southern,NUCLEAR,26946.964517611254
+policy,P3_no_decline_floor,central,p10,Southern,HYDRO,54656.132526917165
+policy,P3_no_decline_floor,central,p10,Eastern,COAL_LIGNITE,328299.64403328
+policy,P3_no_decline_floor,central,p10,Eastern,NATURAL_GAS,0.0
+policy,P3_no_decline_floor,central,p10,Eastern,DIESEL,451.77966215012304
+policy,P3_no_decline_floor,central,p10,Eastern,NUCLEAR,0.0
+policy,P3_no_decline_floor,central,p10,Eastern,HYDRO,16390.956634880593
+policy,P3_no_decline_floor,central,p10,North Eastern,COAL_LIGNITE,3612.029290643761
+policy,P3_no_decline_floor,central,p10,North Eastern,NATURAL_GAS,12088.729050640995
+policy,P3_no_decline_floor,central,p10,North Eastern,DIESEL,0.0
+policy,P3_no_decline_floor,central,p10,North Eastern,NUCLEAR,0.0
+policy,P3_no_decline_floor,central,p10,North Eastern,HYDRO,7040.273817576414
+policy,P3_no_decline_floor,central,p50,Northern,COAL_LIGNITE,430194.5932260911
+policy,P3_no_decline_floor,central,p50,Northern,NATURAL_GAS,11183.662516362641
+policy,P3_no_decline_floor,central,p50,Northern,DIESEL,0.0
+policy,P3_no_decline_floor,central,p50,Northern,NUCLEAR,21169.3772261165
+policy,P3_no_decline_floor,central,p50,Northern,HYDRO,128209.8530833962
+policy,P3_no_decline_floor,central,p50,Western,COAL_LIGNITE,731040.9664021921
+policy,P3_no_decline_floor,central,p50,Western,NATURAL_GAS,21041.160908824604
+policy,P3_no_decline_floor,central,p50,Western,DIESEL,0.0
+policy,P3_no_decline_floor,central,p50,Western,NUCLEAR,29751.068705004942
+policy,P3_no_decline_floor,central,p50,Western,HYDRO,29813.622274712106
+policy,P3_no_decline_floor,central,p50,Southern,COAL_LIGNITE,377348.96995693573
+policy,P3_no_decline_floor,central,p50,Southern,NATURAL_GAS,5368.028873105208
+policy,P3_no_decline_floor,central,p50,Southern,DIESEL,99.73039481892211
+policy,P3_no_decline_floor,central,p50,Southern,NUCLEAR,33951.224925206974
+policy,P3_no_decline_floor,central,p50,Southern,HYDRO,68545.41502285117
+policy,P3_no_decline_floor,central,p50,Eastern,COAL_LIGNITE,414651.1918127331
+policy,P3_no_decline_floor,central,p50,Eastern,NATURAL_GAS,0.0
+policy,P3_no_decline_floor,central,p50,Eastern,DIESEL,569.8406512149612
+policy,P3_no_decline_floor,central,p50,Eastern,NUCLEAR,0.0
+policy,P3_no_decline_floor,central,p50,Eastern,HYDRO,20450.198483393175
+policy,P3_no_decline_floor,central,p50,North Eastern,COAL_LIGNITE,5248.773266029065
+policy,P3_no_decline_floor,central,p50,North Eastern,NATURAL_GAS,13351.157701707545
+policy,P3_no_decline_floor,central,p50,North Eastern,DIESEL,0.0
+policy,P3_no_decline_floor,central,p50,North Eastern,NUCLEAR,0.0
+policy,P3_no_decline_floor,central,p50,North Eastern,HYDRO,10105.942428955483
+policy,P3_no_decline_floor,central,p90,Northern,COAL_LIGNITE,546613.9004997783
+policy,P3_no_decline_floor,central,p90,Northern,NATURAL_GAS,10844.745824559688
+policy,P3_no_decline_floor,central,p90,Northern,DIESEL,0.0
+policy,P3_no_decline_floor,central,p90,Northern,NUCLEAR,26739.34454859504
+policy,P3_no_decline_floor,central,p90,Northern,HYDRO,161200.17963682697
+policy,P3_no_decline_floor,central,p90,Western,COAL_LIGNITE,928663.1647124903
+policy,P3_no_decline_floor,central,p90,Western,NATURAL_GAS,20398.85556856112
+policy,P3_no_decline_floor,central,p90,Western,DIESEL,0.0
+policy,P3_no_decline_floor,central,p90,Western,NUCLEAR,37570.4180306295
+policy,P3_no_decline_floor,central,p90,Western,HYDRO,37476.55351377094
+policy,P3_no_decline_floor,central,p90,Southern,COAL_LIGNITE,478284.42941514036
+policy,P3_no_decline_floor,central,p90,Southern,NATURAL_GAS,5192.512102953953
+policy,P3_no_decline_floor,central,p90,Southern,DIESEL,126.2686081705529
+policy,P3_no_decline_floor,central,p90,Southern,NUCLEAR,42778.49220905545
+policy,P3_no_decline_floor,central,p90,Southern,HYDRO,85970.58442626076
+policy,P3_no_decline_floor,central,p90,Eastern,COAL_LIGNITE,523451.1331170736
+policy,P3_no_decline_floor,central,p90,Eastern,NATURAL_GAS,0.0
+policy,P3_no_decline_floor,central,p90,Eastern,DIESEL,718.5738940810114
+policy,P3_no_decline_floor,central,p90,Eastern,NUCLEAR,0.0
+policy,P3_no_decline_floor,central,p90,Eastern,HYDRO,25545.778885154297
+policy,P3_no_decline_floor,central,p90,North Eastern,COAL_LIGNITE,7473.494773564911
+policy,P3_no_decline_floor,central,p90,North Eastern,NATURAL_GAS,14507.89650392524
+policy,P3_no_decline_floor,central,p90,North Eastern,DIESEL,0.0
+policy,P3_no_decline_floor,central,p90,North Eastern,NUCLEAR,0.0
+policy,P3_no_decline_floor,central,p90,North Eastern,HYDRO,14238.726144541766
+policy,P3_no_decline_floor,high,p10,Northern,COAL_LIGNITE,542123.1131508205
+policy,P3_no_decline_floor,high,p10,Northern,NATURAL_GAS,10855.855053768795
+policy,P3_no_decline_floor,high,p10,Northern,DIESEL,0.0
+policy,P3_no_decline_floor,high,p10,Northern,NUCLEAR,26524.463876288653
+policy,P3_no_decline_floor,high,p10,Northern,HYDRO,159929.78967119416
+policy,P3_no_decline_floor,high,p10,Western,COAL_LIGNITE,921043.2461734208
+policy,P3_no_decline_floor,high,p10,Western,NATURAL_GAS,20419.96588299206
+policy,P3_no_decline_floor,high,p10,Western,DIESEL,0.0
+policy,P3_no_decline_floor,high,p10,Western,NUCLEAR,37268.88803319556
+policy,P3_no_decline_floor,high,p10,Western,HYDRO,37181.59705944215
+policy,P3_no_decline_floor,high,p10,Southern,COAL_LIGNITE,474391.0582830869
+policy,P3_no_decline_floor,high,p10,Southern,NATURAL_GAS,5198.226224237096
+policy,P3_no_decline_floor,high,p10,Southern,DIESEL,125.24502430416067
+policy,P3_no_decline_floor,high,p10,Southern,NUCLEAR,42437.94350105972
+policy,P3_no_decline_floor,high,p10,Southern,HYDRO,85299.54678873369
+policy,P3_no_decline_floor,high,p10,Eastern,COAL_LIGNITE,519254.1161915581
+policy,P3_no_decline_floor,high,p10,Eastern,NATURAL_GAS,0.0
+policy,P3_no_decline_floor,high,p10,Eastern,DIESEL,712.836739279602
+policy,P3_no_decline_floor,high,p10,Eastern,NUCLEAR,0.0
+policy,P3_no_decline_floor,high,p10,Eastern,HYDRO,25349.50861251511
+policy,P3_no_decline_floor,high,p10,North Eastern,COAL_LIGNITE,7385.149574302494
+policy,P3_no_decline_floor,high,p10,North Eastern,NATURAL_GAS,14469.962839002057
+policy,P3_no_decline_floor,high,p10,North Eastern,DIESEL,0.0
+policy,P3_no_decline_floor,high,p10,North Eastern,NUCLEAR,0.0
+policy,P3_no_decline_floor,high,p10,North Eastern,HYDRO,14075.158383196018
+policy,P3_no_decline_floor,high,p50,Northern,COAL_LIGNITE,679821.8384145884
+policy,P3_no_decline_floor,high,p50,Northern,NATURAL_GAS,13352.039241490764
+policy,P3_no_decline_floor,high,p50,Northern,DIESEL,0.0
+policy,P3_no_decline_floor,high,p50,Northern,NUCLEAR,33249.13178041888
+policy,P3_no_decline_floor,high,p50,Northern,HYDRO,200410.7963198844
+policy,P3_no_decline_floor,high,p50,Western,COAL_LIGNITE,1154961.818657268
+policy,P3_no_decline_floor,high,p50,Western,NATURAL_GAS,25114.757734595936
+policy,P3_no_decline_floor,high,p50,Western,DIESEL,0.0
+policy,P3_no_decline_floor,high,p50,Western,NUCLEAR,46716.526778218955
+policy,P3_no_decline_floor,high,p50,Western,HYDRO,46591.87677139524
+policy,P3_no_decline_floor,high,p50,Southern,COAL_LIGNITE,594791.8751869726
+policy,P3_no_decline_floor,high,p50,Southern,NATURAL_GAS,6392.490404915616
+policy,P3_no_decline_floor,high,p50,Southern,DIESEL,157.0211419968392
+policy,P3_no_decline_floor,high,p50,Southern,NUCLEAR,53188.69929195689
+policy,P3_no_decline_floor,high,p50,Southern,HYDRO,106873.44681990094
+policy,P3_no_decline_floor,high,p50,Eastern,COAL_LIGNITE,650874.2485962608
+policy,P3_no_decline_floor,high,p50,Eastern,NATURAL_GAS,0.0
+policy,P3_no_decline_floor,high,p50,Eastern,DIESEL,893.4625090310445
+policy,P3_no_decline_floor,high,p50,Eastern,NUCLEAR,0.0
+policy,P3_no_decline_floor,high,p50,Eastern,HYDRO,31752.742839638064
+policy,P3_no_decline_floor,high,p50,North Eastern,COAL_LIGNITE,9331.50183480707
+policy,P3_no_decline_floor,high,p50,North Eastern,NATURAL_GAS,17932.71481409213
+policy,P3_no_decline_floor,high,p50,North Eastern,DIESEL,0.0
+policy,P3_no_decline_floor,high,p50,North Eastern,NUCLEAR,0.0
+policy,P3_no_decline_floor,high,p50,North Eastern,HYDRO,17772.155324244028
+policy,P3_no_decline_floor,high,p90,Northern,COAL_LIGNITE,851791.2744977784
+policy,P3_no_decline_floor,high,p90,Northern,NATURAL_GAS,16729.60455224133
+policy,P3_no_decline_floor,high,p90,Northern,DIESEL,0.0
+policy,P3_no_decline_floor,high,p90,Northern,NUCLEAR,41659.91548791033
+policy,P3_no_decline_floor,high,p90,Northern,HYDRO,251107.21364664793
+policy,P3_no_decline_floor,high,p90,Western,COAL_LIGNITE,1447123.8549862318
+policy,P3_no_decline_floor,high,p90,Western,NATURAL_GAS,31467.84979627
+policy,P3_no_decline_floor,high,p90,Western,DIESEL,0.0
+policy,P3_no_decline_floor,high,p90,Western,NUCLEAR,58534.056477693135
+policy,P3_no_decline_floor,high,p90,Western,HYDRO,58377.874692732934
+policy,P3_no_decline_floor,high,p90,Southern,COAL_LIGNITE,745251.9186614628
+policy,P3_no_decline_floor,high,p90,Southern,NATURAL_GAS,8009.550799245174
+policy,P3_no_decline_floor,high,p90,Southern,DIESEL,196.74160361853166
+policy,P3_no_decline_floor,high,p90,Southern,NUCLEAR,66643.44597171567
+policy,P3_no_decline_floor,high,p90,Southern,HYDRO,133908.42178443974
+policy,P3_no_decline_floor,high,p90,Eastern,COAL_LIGNITE,815521.0298076469
+policy,P3_no_decline_floor,high,p90,Eastern,NATURAL_GAS,0.0
+policy,P3_no_decline_floor,high,p90,Eastern,DIESEL,1119.4750246010994
+policy,P3_no_decline_floor,high,p90,Eastern,NUCLEAR,0.0
+policy,P3_no_decline_floor,high,p90,Eastern,HYDRO,39784.996250269185
+policy,P3_no_decline_floor,high,p90,North Eastern,COAL_LIGNITE,11692.021926487876
+policy,P3_no_decline_floor,high,p90,North Eastern,NATURAL_GAS,22469.019298237563
+policy,P3_no_decline_floor,high,p90,North Eastern,DIESEL,0.0
+policy,P3_no_decline_floor,high,p90,North Eastern,NUCLEAR,0.0
+policy,P3_no_decline_floor,high,p90,North Eastern,HYDRO,22267.844277427153
+policy,P3_no_decline_floor,low,p10,Northern,COAL_LIGNITE,204918.11346852238
+policy,P3_no_decline_floor,low,p10,Northern,NATURAL_GAS,11987.892283860956
+policy,P3_no_decline_floor,low,p10,Northern,DIESEL,0.0
+policy,P3_no_decline_floor,low,p10,Northern,NUCLEAR,13762.248609443344
+policy,P3_no_decline_floor,low,p10,Northern,HYDRO,82874.74262253681
+policy,P3_no_decline_floor,low,p10,Western,COAL_LIGNITE,366416.61603861395
+policy,P3_no_decline_floor,low,p10,Western,NATURAL_GAS,23732.665600942295
+policy,P3_no_decline_floor,low,p10,Western,DIESEL,0.0
+policy,P3_no_decline_floor,low,p10,Western,NUCLEAR,20351.75807604088
+policy,P3_no_decline_floor,low,p10,Western,HYDRO,20278.395006998544
+policy,P3_no_decline_floor,low,p10,Southern,COAL_LIGNITE,183777.45534373974
+policy,P3_no_decline_floor,low,p10,Southern,NATURAL_GAS,5883.114294396864
+policy,P3_no_decline_floor,low,p10,Southern,DIESEL,49.88425029958869
+policy,P3_no_decline_floor,low,p10,Southern,NUCLEAR,22566.82331451578
+policy,P3_no_decline_floor,low,p10,Southern,HYDRO,45301.52939658021
+policy,P3_no_decline_floor,low,p10,Eastern,COAL_LIGNITE,216440.23213834642
+policy,P3_no_decline_floor,low,p10,Eastern,NATURAL_GAS,0.0
+policy,P3_no_decline_floor,low,p10,Eastern,DIESEL,305.48883836048947
+policy,P3_no_decline_floor,low,p10,Eastern,NUCLEAR,0.0
+policy,P3_no_decline_floor,low,p10,Eastern,HYDRO,14485.65006162967
+policy,P3_no_decline_floor,low,p10,North Eastern,COAL_LIGNITE,1631.7668025226258
+policy,P3_no_decline_floor,low,p10,North Eastern,NATURAL_GAS,9340.337820799889
+policy,P3_no_decline_floor,low,p10,North Eastern,DIESEL,0.0
+policy,P3_no_decline_floor,low,p10,North Eastern,NUCLEAR,0.0
+policy,P3_no_decline_floor,low,p10,North Eastern,HYDRO,4263.462912254773
+policy,P3_no_decline_floor,low,p50,Northern,COAL_LIGNITE,281165.35843088565
+policy,P3_no_decline_floor,low,p50,Northern,NATURAL_GAS,11845.822541475016
+policy,P3_no_decline_floor,low,p50,Northern,DIESEL,0.0
+policy,P3_no_decline_floor,low,p50,Northern,NUCLEAR,14105.254374396305
+policy,P3_no_decline_floor,low,p50,Northern,HYDRO,85741.15007899285
+policy,P3_no_decline_floor,low,p50,Western,COAL_LIGNITE,477712.4382692251
+policy,P3_no_decline_floor,low,p50,Western,NATURAL_GAS,22283.265635818396
+policy,P3_no_decline_floor,low,p50,Western,DIESEL,0.0
+policy,P3_no_decline_floor,low,p50,Western,NUCLEAR,19819.98777847332
+policy,P3_no_decline_floor,low,p50,Western,HYDRO,19934.741921656972
+policy,P3_no_decline_floor,low,p50,Southern,COAL_LIGNITE,248084.5983460673
+policy,P3_no_decline_floor,low,p50,Southern,NATURAL_GAS,5719.469954576374
+policy,P3_no_decline_floor,low,p50,Southern,DIESEL,65.73934475069937
+policy,P3_no_decline_floor,low,p50,Southern,NUCLEAR,22755.587847130377
+policy,P3_no_decline_floor,low,p50,Southern,HYDRO,46111.16373788245
+policy,P3_no_decline_floor,low,p50,Eastern,COAL_LIGNITE,275444.5237045591
+policy,P3_no_decline_floor,low,p50,Eastern,NATURAL_GAS,0.0
+policy,P3_no_decline_floor,low,p50,Eastern,DIESEL,379.52977265601737
+policy,P3_no_decline_floor,low,p50,Eastern,NUCLEAR,0.0
+policy,P3_no_decline_floor,low,p50,Eastern,HYDRO,13900.159707218078
+policy,P3_no_decline_floor,low,p50,North Eastern,COAL_LIGNITE,2691.5321716573108
+policy,P3_no_decline_floor,low,p50,North Eastern,NATURAL_GAS,11095.451868130214
+policy,P3_no_decline_floor,low,p50,North Eastern,DIESEL,0.0
+policy,P3_no_decline_floor,low,p50,North Eastern,NUCLEAR,0.0
+policy,P3_no_decline_floor,low,p50,North Eastern,HYDRO,5302.609196923989
+policy,P3_no_decline_floor,low,p90,Northern,COAL_LIGNITE,358041.5115954668
+policy,P3_no_decline_floor,low,p90,Northern,NATURAL_GAS,11462.8549964743
+policy,P3_no_decline_floor,low,p90,Northern,DIESEL,0.0
+policy,P3_no_decline_floor,low,p90,Northern,NUCLEAR,17718.089426356157
+policy,P3_no_decline_floor,low,p90,Northern,HYDRO,107686.15022271348
+policy,P3_no_decline_floor,low,p90,Western,COAL_LIGNITE,608448.7191216227
+policy,P3_no_decline_floor,low,p90,Western,NATURAL_GAS,21567.125985217794
+policy,P3_no_decline_floor,low,p90,Western,DIESEL,0.0
+policy,P3_no_decline_floor,low,p90,Western,NUCLEAR,24901.48290559895
+policy,P3_no_decline_floor,low,p90,Western,HYDRO,25041.885512919253
+policy,P3_no_decline_floor,low,p90,Southern,COAL_LIGNITE,314786.52383587
+policy,P3_no_decline_floor,low,p90,Southern,NATURAL_GAS,5514.779053447333
+policy,P3_no_decline_floor,low,p90,Southern,DIESEL,83.27877959832159
+policy,P3_no_decline_floor,low,p90,Southern,NUCLEAR,28481.88863057007
+policy,P3_no_decline_floor,low,p90,Southern,HYDRO,57706.055310990574
+policy,P3_no_decline_floor,low,p90,Eastern,COAL_LIGNITE,347224.9773691151
+policy,P3_no_decline_floor,low,p90,Eastern,NATURAL_GAS,0.0
+policy,P3_no_decline_floor,low,p90,Eastern,DIESEL,477.65608960916376
+policy,P3_no_decline_floor,low,p90,Eastern,NUCLEAR,0.0
+policy,P3_no_decline_floor,low,p90,Eastern,HYDRO,17282.062932174067
+policy,P3_no_decline_floor,low,p90,North Eastern,COAL_LIGNITE,3958.165881375224
+policy,P3_no_decline_floor,low,p90,North Eastern,NATURAL_GAS,12399.249964860584
+policy,P3_no_decline_floor,low,p90,North Eastern,DIESEL,0.0
+policy,P3_no_decline_floor,low,p90,North Eastern,NUCLEAR,0.0
+policy,P3_no_decline_floor,low,p90,North Eastern,HYDRO,7691.003563053121
+trend reference,T1_damped_trend (Phase 3),central,p10,Northern,COAL_LIGNITE,354747.3331330809
+trend reference,T1_damped_trend (Phase 3),central,p10,Northern,NATURAL_GAS,357.4654927427436
+trend reference,T1_damped_trend (Phase 3),central,p10,Northern,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),central,p10,Northern,NUCLEAR,16925.22866465942
+trend reference,T1_damped_trend (Phase 3),central,p10,Northern,HYDRO,95972.97692495119
+trend reference,T1_damped_trend (Phase 3),central,p10,Western,COAL_LIGNITE,596693.3618827643
+trend reference,T1_damped_trend (Phase 3),central,p10,Western,NATURAL_GAS,665.6946534564532
+trend reference,T1_damped_trend (Phase 3),central,p10,Western,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),central,p10,Western,NUCLEAR,23544.221450285815
+trend reference,T1_damped_trend (Phase 3),central,p10,Western,HYDRO,22090.09626919478
+trend reference,T1_damped_trend (Phase 3),central,p10,Southern,COAL_LIGNITE,306813.9570357867
+trend reference,T1_damped_trend (Phase 3),central,p10,Southern,NATURAL_GAS,169.17752453138027
+trend reference,T1_damped_trend (Phase 3),central,p10,Southern,DIESEL,129.41021712321353
+trend reference,T1_damped_trend (Phase 3),central,p10,Southern,NUCLEAR,26764.532526244522
+trend reference,T1_damped_trend (Phase 3),central,p10,Southern,HYDRO,50592.21867948897
+trend reference,T1_damped_trend (Phase 3),central,p10,Eastern,COAL_LIGNITE,329660.4388014323
+trend reference,T1_damped_trend (Phase 3),central,p10,Eastern,NATURAL_GAS,0.0
+trend reference,T1_damped_trend (Phase 3),central,p10,Eastern,DIESEL,723.0135333666991
+trend reference,T1_damped_trend (Phase 3),central,p10,Eastern,NUCLEAR,0.0
+trend reference,T1_damped_trend (Phase 3),central,p10,Eastern,HYDRO,14758.92799634498
+trend reference,T1_damped_trend (Phase 3),central,p10,North Eastern,COAL_LIGNITE,7989.406822832216
+trend reference,T1_damped_trend (Phase 3),central,p10,North Eastern,NATURAL_GAS,787.7193772685014
+trend reference,T1_damped_trend (Phase 3),central,p10,North Eastern,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),central,p10,North Eastern,NUCLEAR,0.0
+trend reference,T1_damped_trend (Phase 3),central,p10,North Eastern,HYDRO,13963.905958238296
+trend reference,T1_damped_trend (Phase 3),central,p50,Northern,COAL_LIGNITE,447795.50733153935
+trend reference,T1_damped_trend (Phase 3),central,p50,Northern,NATURAL_GAS,451.2266244872695
+trend reference,T1_damped_trend (Phase 3),central,p50,Northern,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),central,p50,Northern,NUCLEAR,21364.61827535903
+trend reference,T1_damped_trend (Phase 3),central,p50,Northern,HYDRO,121146.13382033262
+trend reference,T1_damped_trend (Phase 3),central,p50,Western,COAL_LIGNITE,753202.5803969218
+trend reference,T1_damped_trend (Phase 3),central,p50,Western,NATURAL_GAS,840.3025117547489
+trend reference,T1_damped_trend (Phase 3),central,p50,Western,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),central,p50,Western,NUCLEAR,29719.734595049304
+trend reference,T1_damped_trend (Phase 3),central,p50,Western,HYDRO,27884.200787224214
+trend reference,T1_damped_trend (Phase 3),central,p50,Southern,COAL_LIGNITE,387289.483852211
+trend reference,T1_damped_trend (Phase 3),central,p50,Southern,NATURAL_GAS,213.55181096667613
+trend reference,T1_damped_trend (Phase 3),central,p50,Southern,DIESEL,163.353768776084
+trend reference,T1_damped_trend (Phase 3),central,p50,Southern,NUCLEAR,33784.714645237
+trend reference,T1_damped_trend (Phase 3),central,p50,Southern,HYDRO,63862.265095702394
+trend reference,T1_damped_trend (Phase 3),central,p50,Eastern,COAL_LIGNITE,416128.46567712195
+trend reference,T1_damped_trend (Phase 3),central,p50,Eastern,NATURAL_GAS,0.0
+trend reference,T1_damped_trend (Phase 3),central,p50,Eastern,DIESEL,912.6558024306564
+trend reference,T1_damped_trend (Phase 3),central,p50,Eastern,NUCLEAR,0.0
+trend reference,T1_damped_trend (Phase 3),central,p50,Eastern,HYDRO,18630.10946802149
+trend reference,T1_damped_trend (Phase 3),central,p50,North Eastern,COAL_LIGNITE,10084.982034805535
+trend reference,T1_damped_trend (Phase 3),central,p50,North Eastern,NATURAL_GAS,994.3336150414509
+trend reference,T1_damped_trend (Phase 3),central,p50,North Eastern,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),central,p50,North Eastern,NUCLEAR,0.0
+trend reference,T1_damped_trend (Phase 3),central,p50,North Eastern,HYDRO,17626.557746669096
+trend reference,T1_damped_trend (Phase 3),central,p90,Northern,COAL_LIGNITE,565013.4950606
+trend reference,T1_damped_trend (Phase 3),central,p90,Northern,NATURAL_GAS,569.3427647035087
+trend reference,T1_damped_trend (Phase 3),central,p90,Northern,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),central,p90,Northern,NUCLEAR,26957.16559179058
+trend reference,T1_damped_trend (Phase 3),central,p90,Northern,HYDRO,152858.16709238838
+trend reference,T1_damped_trend (Phase 3),central,p90,Western,COAL_LIGNITE,950365.9940108412
+trend reference,T1_damped_trend (Phase 3),central,p90,Western,NATURAL_GAS,1060.2657938754883
+trend reference,T1_damped_trend (Phase 3),central,p90,Western,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),central,p90,Western,NUCLEAR,37499.37380097409
+trend reference,T1_damped_trend (Phase 3),central,p90,Western,HYDRO,35183.35822001987
+trend reference,T1_damped_trend (Phase 3),central,p90,Southern,COAL_LIGNITE,488669.0046882057
+trend reference,T1_damped_trend (Phase 3),central,p90,Southern,NATURAL_GAS,269.4525807322761
+trend reference,T1_damped_trend (Phase 3),central,p90,Southern,DIESEL,206.1143587114224
+trend reference,T1_damped_trend (Phase 3),central,p90,Southern,NUCLEAR,42628.43058672624
+trend reference,T1_damped_trend (Phase 3),central,p90,Southern,HYDRO,80579.28454716313
+trend reference,T1_damped_trend (Phase 3),central,p90,Eastern,COAL_LIGNITE,525057.0739030627
+trend reference,T1_damped_trend (Phase 3),central,p90,Eastern,NATURAL_GAS,0.0
+trend reference,T1_damped_trend (Phase 3),central,p90,Eastern,DIESEL,1151.5587724217482
+trend reference,T1_damped_trend (Phase 3),central,p90,Eastern,NUCLEAR,0.0
+trend reference,T1_damped_trend (Phase 3),central,p90,Eastern,HYDRO,23506.853221050635
+trend reference,T1_damped_trend (Phase 3),central,p90,North Eastern,COAL_LIGNITE,12724.895301126895
+trend reference,T1_damped_trend (Phase 3),central,p90,North Eastern,NATURAL_GAS,1254.617122978094
+trend reference,T1_damped_trend (Phase 3),central,p90,North Eastern,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),central,p90,North Eastern,NUCLEAR,0.0
+trend reference,T1_damped_trend (Phase 3),central,p90,North Eastern,HYDRO,22240.604997761537
+trend reference,T1_damped_trend (Phase 3),high,p10,Northern,COAL_LIGNITE,560492.0504437566
+trend reference,T1_damped_trend (Phase 3),high,p10,Northern,NATURAL_GAS,564.786675687739
+trend reference,T1_damped_trend (Phase 3),high,p10,Northern,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),high,p10,Northern,NUCLEAR,26741.444494301955
+trend reference,T1_damped_trend (Phase 3),high,p10,Northern,HYDRO,151634.9401380194
+trend reference,T1_damped_trend (Phase 3),high,p10,Western,COAL_LIGNITE,942760.8177713068
+trend reference,T1_damped_trend (Phase 3),high,p10,Western,NATURAL_GAS,1051.7811592463138
+trend reference,T1_damped_trend (Phase 3),high,p10,Western,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),high,p10,Western,NUCLEAR,37199.29009803666
+trend reference,T1_damped_trend (Phase 3),high,p10,Western,HYDRO,34901.80812074424
+trend reference,T1_damped_trend (Phase 3),high,p10,Southern,COAL_LIGNITE,484758.4966030339
+trend reference,T1_damped_trend (Phase 3),high,p10,Southern,NATURAL_GAS,267.29632264057204
+trend reference,T1_damped_trend (Phase 3),high,p10,Southern,DIESEL,204.46495623555782
+trend reference,T1_damped_trend (Phase 3),high,p10,Southern,NUCLEAR,42287.30229565747
+trend reference,T1_damped_trend (Phase 3),high,p10,Southern,HYDRO,79934.45964381137
+trend reference,T1_damped_trend (Phase 3),high,p10,Eastern,COAL_LIGNITE,520855.3751806636
+trend reference,T1_damped_trend (Phase 3),high,p10,Eastern,NATURAL_GAS,0.0
+trend reference,T1_damped_trend (Phase 3),high,p10,Eastern,DIESEL,1142.3435779917702
+trend reference,T1_damped_trend (Phase 3),high,p10,Eastern,NUCLEAR,0.0
+trend reference,T1_damped_trend (Phase 3),high,p10,Eastern,HYDRO,23318.7427849559
+trend reference,T1_damped_trend (Phase 3),high,p10,North Eastern,COAL_LIGNITE,12623.066035344485
+trend reference,T1_damped_trend (Phase 3),high,p10,North Eastern,NATURAL_GAS,1244.5772179378073
+trend reference,T1_damped_trend (Phase 3),high,p10,North Eastern,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),high,p10,North Eastern,NUCLEAR,0.0
+trend reference,T1_damped_trend (Phase 3),high,p10,North Eastern,HYDRO,22062.62754302538
+trend reference,T1_damped_trend (Phase 3),high,p50,Northern,COAL_LIGNITE,702542.1159440554
+trend reference,T1_damped_trend (Phase 3),high,p50,Northern,NATURAL_GAS,707.9251630429487
+trend reference,T1_damped_trend (Phase 3),high,p50,Northern,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),high,p50,Northern,NUCLEAR,33518.74657910532
+trend reference,T1_damped_trend (Phase 3),high,p50,Northern,HYDRO,190065.0180698756
+trend reference,T1_damped_trend (Phase 3),high,p50,Western,COAL_LIGNITE,1181692.3705194714
+trend reference,T1_damped_trend (Phase 3),high,p50,Western,NATURAL_GAS,1318.342625095171
+trend reference,T1_damped_trend (Phase 3),high,p50,Western,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),high,p50,Western,NUCLEAR,46627.009172387676
+trend reference,T1_damped_trend (Phase 3),high,p50,Western,HYDRO,43747.257624810125
+trend reference,T1_damped_trend (Phase 3),high,p50,Southern,COAL_LIGNITE,607614.7907106292
+trend reference,T1_damped_trend (Phase 3),high,p50,Southern,NATURAL_GAS,335.03940679140146
+trend reference,T1_damped_trend (Phase 3),high,p50,Southern,DIESEL,256.2841754426483
+trend reference,T1_damped_trend (Phase 3),high,p50,Southern,NUCLEAR,53004.51774264414
+trend reference,T1_damped_trend (Phase 3),high,p50,Southern,HYDRO,100192.90081018407
+trend reference,T1_damped_trend (Phase 3),high,p50,Eastern,COAL_LIGNITE,652859.9952319525
+trend reference,T1_damped_trend (Phase 3),high,p50,Eastern,NATURAL_GAS,0.0
+trend reference,T1_damped_trend (Phase 3),high,p50,Eastern,DIESEL,1431.857015245881
+trend reference,T1_damped_trend (Phase 3),high,p50,Eastern,NUCLEAR,0.0
+trend reference,T1_damped_trend (Phase 3),high,p50,Eastern,HYDRO,29228.601697968283
+trend reference,T1_damped_trend (Phase 3),high,p50,North Eastern,COAL_LIGNITE,15822.232474396787
+trend reference,T1_damped_trend (Phase 3),high,p50,North Eastern,NATURAL_GAS,1560.0005592470618
+trend reference,T1_damped_trend (Phase 3),high,p50,North Eastern,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),high,p50,North Eastern,NUCLEAR,0.0
+trend reference,T1_damped_trend (Phase 3),high,p50,North Eastern,HYDRO,27654.138939331846
+trend reference,T1_damped_trend (Phase 3),high,p90,Northern,COAL_LIGNITE,880258.9303749431
+trend reference,T1_damped_trend (Phase 3),high,p90,Northern,NATURAL_GAS,887.0036865595063
+trend reference,T1_damped_trend (Phase 3),high,p90,Northern,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),high,p90,Northern,NUCLEAR,41997.73272180819
+trend reference,T1_damped_trend (Phase 3),high,p90,Northern,HYDRO,238144.34140088738
+trend reference,T1_damped_trend (Phase 3),high,p90,Western,COAL_LIGNITE,1480616.2342422942
+trend reference,T1_damped_trend (Phase 3),high,p90,Western,NATURAL_GAS,1651.8338797020685
+trend reference,T1_damped_trend (Phase 3),high,p90,Western,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),high,p90,Western,NUCLEAR,58421.894273932776
+trend reference,T1_damped_trend (Phase 3),high,p90,Western,HYDRO,54813.673557357135
+trend reference,T1_damped_trend (Phase 3),high,p90,Southern,COAL_LIGNITE,761318.5510340637
+trend reference,T1_damped_trend (Phase 3),high,p90,Southern,NATURAL_GAS,419.79181484279775
+trend reference,T1_damped_trend (Phase 3),high,p90,Southern,DIESEL,321.11446278778635
+trend reference,T1_damped_trend (Phase 3),high,p90,Southern,NUCLEAR,66412.67339607446
+trend reference,T1_damped_trend (Phase 3),high,p90,Southern,HYDRO,125537.94811264881
+trend reference,T1_damped_trend (Phase 3),high,p90,Eastern,COAL_LIGNITE,818009.0958891808
+trend reference,T1_damped_trend (Phase 3),high,p90,Eastern,NATURAL_GAS,0.0
+trend reference,T1_damped_trend (Phase 3),high,p90,Eastern,DIESEL,1794.0631544864789
+trend reference,T1_damped_trend (Phase 3),high,p90,Eastern,NUCLEAR,0.0
+trend reference,T1_damped_trend (Phase 3),high,p90,Eastern,HYDRO,36622.34203914632
+trend reference,T1_damped_trend (Phase 3),high,p90,North Eastern,COAL_LIGNITE,19824.664056389887
+trend reference,T1_damped_trend (Phase 3),high,p90,North Eastern,NATURAL_GAS,1954.6222105444313
+trend reference,T1_damped_trend (Phase 3),high,p90,North Eastern,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),high,p90,North Eastern,NUCLEAR,0.0
+trend reference,T1_damped_trend (Phase 3),high,p90,North Eastern,HYDRO,34649.599235008376
+trend reference,T1_damped_trend (Phase 3),low,p10,Northern,COAL_LIGNITE,237666.2991489627
+trend reference,T1_damped_trend (Phase 3),low,p10,Northern,NATURAL_GAS,239.487355643508
+trend reference,T1_damped_trend (Phase 3),low,p10,Northern,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),low,p10,Northern,NUCLEAR,11339.215501503175
+trend reference,T1_damped_trend (Phase 3),low,p10,Northern,HYDRO,64297.994977470604
+trend reference,T1_damped_trend (Phase 3),low,p10,Western,COAL_LIGNITE,399760.30768983637
+trend reference,T1_damped_trend (Phase 3),low,p10,Western,NATURAL_GAS,445.9883693921779
+trend reference,T1_damped_trend (Phase 3),low,p10,Western,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),low,p10,Western,NUCLEAR,15773.671725768481
+trend reference,T1_damped_trend (Phase 3),low,p10,Western,HYDRO,14799.466938273794
+trend reference,T1_damped_trend (Phase 3),low,p10,Southern,COAL_LIGNITE,205552.88478684388
+trend reference,T1_damped_trend (Phase 3),low,p10,Southern,NATURAL_GAS,113.34206743556362
+trend reference,T1_damped_trend (Phase 3),low,p10,Southern,DIESEL,86.69958729245704
+trend reference,T1_damped_trend (Phase 3),low,p10,Southern,NUCLEAR,17931.149299375502
+trend reference,T1_damped_trend (Phase 3),low,p10,Southern,HYDRO,33894.73085842317
+trend reference,T1_damped_trend (Phase 3),low,p10,Eastern,COAL_LIGNITE,220859.09927437676
+trend reference,T1_damped_trend (Phase 3),low,p10,Eastern,NATURAL_GAS,0.0
+trend reference,T1_damped_trend (Phase 3),low,p10,Eastern,DIESEL,484.38968995833255
+trend reference,T1_damped_trend (Phase 3),low,p10,Eastern,NUCLEAR,0.0
+trend reference,T1_damped_trend (Phase 3),low,p10,Eastern,HYDRO,9887.882074595998
+trend reference,T1_damped_trend (Phase 3),low,p10,North Eastern,COAL_LIGNITE,5352.577946697852
+trend reference,T1_damped_trend (Phase 3),low,p10,North Eastern,NATURAL_GAS,527.7399762526138
+trend reference,T1_damped_trend (Phase 3),low,p10,North Eastern,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),low,p10,North Eastern,NUCLEAR,0.0
+trend reference,T1_damped_trend (Phase 3),low,p10,North Eastern,HYDRO,9355.249612302621
+trend reference,T1_damped_trend (Phase 3),low,p50,Northern,COAL_LIGNITE,297786.93614193046
+trend reference,T1_damped_trend (Phase 3),low,p50,Northern,NATURAL_GAS,300.06865145450894
+trend reference,T1_damped_trend (Phase 3),low,p50,Northern,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),low,p50,Northern,NUCLEAR,14207.61064794176
+trend reference,T1_damped_trend (Phase 3),low,p50,Northern,HYDRO,80562.96998342764
+trend reference,T1_damped_trend (Phase 3),low,p50,Western,COAL_LIGNITE,500884.63380960305
+trend reference,T1_damped_trend (Phase 3),low,p50,Western,NATURAL_GAS,558.806656862153
+trend reference,T1_damped_trend (Phase 3),low,p50,Western,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),low,p50,Western,NUCLEAR,19763.817553203542
+trend reference,T1_damped_trend (Phase 3),low,p50,Western,HYDRO,18543.17558637166
+trend reference,T1_damped_trend (Phase 3),low,p50,Southern,COAL_LIGNITE,257550.03546987582
+trend reference,T1_damped_trend (Phase 3),low,p50,Southern,NATURAL_GAS,142.01334862572958
+trend reference,T1_damped_trend (Phase 3),low,p50,Southern,DIESEL,108.631322812868
+trend reference,T1_damped_trend (Phase 3),low,p50,Southern,NUCLEAR,22467.05582779241
+trend reference,T1_damped_trend (Phase 3),low,p50,Southern,HYDRO,42468.82326113436
+trend reference,T1_damped_trend (Phase 3),low,p50,Eastern,COAL_LIGNITE,276728.14668082556
+trend reference,T1_damped_trend (Phase 3),low,p50,Eastern,NATURAL_GAS,0.0
+trend reference,T1_damped_trend (Phase 3),low,p50,Eastern,DIESEL,606.9220675709802
+trend reference,T1_damped_trend (Phase 3),low,p50,Eastern,NUCLEAR,0.0
+trend reference,T1_damped_trend (Phase 3),low,p50,Eastern,HYDRO,12389.14443684394
+trend reference,T1_damped_trend (Phase 3),low,p50,North Eastern,COAL_LIGNITE,6706.578900397608
+trend reference,T1_damped_trend (Phase 3),low,p50,North Eastern,NATURAL_GAS,661.2383462468998
+trend reference,T1_damped_trend (Phase 3),low,p50,North Eastern,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),low,p50,North Eastern,NUCLEAR,0.0
+trend reference,T1_damped_trend (Phase 3),low,p50,North Eastern,HYDRO,11721.775989554475
+trend reference,T1_damped_trend (Phase 3),low,p90,Northern,COAL_LIGNITE,375141.84017369227
+trend reference,T1_damped_trend (Phase 3),low,p90,Northern,NATURAL_GAS,378.01626741419824
+trend reference,T1_damped_trend (Phase 3),low,p90,Northern,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),low,p90,Northern,NUCLEAR,17898.2640138381
+trend reference,T1_damped_trend (Phase 3),low,p90,Northern,HYDRO,101490.48578489815
+trend reference,T1_damped_trend (Phase 3),low,p90,Western,COAL_LIGNITE,630997.4026278398
+trend reference,T1_damped_trend (Phase 3),low,p90,Western,NATURAL_GAS,703.9655945708208
+trend reference,T1_damped_trend (Phase 3),low,p90,Western,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),low,p90,Western,NUCLEAR,24897.784240716806
+trend reference,T1_damped_trend (Phase 3),low,p90,Western,HYDRO,23360.061063322963
+trend reference,T1_damped_trend (Phase 3),low,p90,Southern,COAL_LIGNITE,324452.76308870444
+trend reference,T1_damped_trend (Phase 3),low,p90,Southern,NATURAL_GAS,178.90357993170127
+trend reference,T1_damped_trend (Phase 3),low,p90,Southern,DIESEL,136.85004073213776
+trend reference,T1_damped_trend (Phase 3),low,p90,Southern,NUCLEAR,28303.231752604584
+trend reference,T1_damped_trend (Phase 3),low,p90,Southern,HYDRO,53500.777148262336
+trend reference,T1_damped_trend (Phase 3),low,p90,Eastern,COAL_LIGNITE,348612.69442733907
+trend reference,T1_damped_trend (Phase 3),low,p90,Eastern,NATURAL_GAS,0.0
+trend reference,T1_damped_trend (Phase 3),low,p90,Eastern,DIESEL,764.5797502751509
+trend reference,T1_damped_trend (Phase 3),low,p90,Eastern,NUCLEAR,0.0
+trend reference,T1_damped_trend (Phase 3),low,p90,Eastern,HYDRO,15607.422214116636
+trend reference,T1_damped_trend (Phase 3),low,p90,North Eastern,COAL_LIGNITE,8448.719687172865
+trend reference,T1_damped_trend (Phase 3),low,p90,North Eastern,NATURAL_GAS,833.0055482562948
+trend reference,T1_damped_trend (Phase 3),low,p90,North Eastern,DIESEL,0.0
+trend reference,T1_damped_trend (Phase 3),low,p90,North Eastern,NUCLEAR,0.0
+trend reference,T1_damped_trend (Phase 3),low,p90,North Eastern,HYDRO,14766.694173344878
+trend reference,T2_constant_FY2025_26,central,p10,Northern,COAL_LIGNITE,343274.7713067356
+trend reference,T2_constant_FY2025_26,central,p10,Northern,NATURAL_GAS,6742.087350067483
+trend reference,T2_constant_FY2025_26,central,p10,Northern,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,central,p10,Northern,NUCLEAR,16789.087174199612
+trend reference,T2_constant_FY2025_26,central,p10,Northern,HYDRO,101197.05838583595
+trend reference,T2_constant_FY2025_26,central,p10,Western,COAL_LIGNITE,583195.81949809
+trend reference,T2_constant_FY2025_26,central,p10,Western,NATURAL_GAS,12681.650147938628
+trend reference,T2_constant_FY2025_26,central,p10,Western,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,central,p10,Western,NUCLEAR,23589.423198589753
+trend reference,T2_constant_FY2025_26,central,p10,Western,HYDRO,23526.481409746928
+trend reference,T2_constant_FY2025_26,central,p10,Southern,COAL_LIGNITE,300339.0497220066
+trend reference,T2_constant_FY2025_26,central,p10,Southern,NATURAL_GAS,3227.876125501377
+trend reference,T2_constant_FY2025_26,central,p10,Southern,DIESEL,79.2875332381066
+trend reference,T2_constant_FY2025_26,central,p10,Southern,NUCLEAR,26857.534656587515
+trend reference,T2_constant_FY2025_26,central,p10,Southern,HYDRO,53965.54794610624
+trend reference,T2_constant_FY2025_26,central,p10,Eastern,COAL_LIGNITE,328657.7397348764
+trend reference,T2_constant_FY2025_26,central,p10,Eastern,NATURAL_GAS,0.0
+trend reference,T2_constant_FY2025_26,central,p10,Eastern,DIESEL,451.1522300806841
+trend reference,T2_constant_FY2025_26,central,p10,Eastern,NUCLEAR,0.0
+trend reference,T2_constant_FY2025_26,central,p10,Eastern,HYDRO,16033.488365148314
+trend reference,T2_constant_FY2025_26,central,p10,North Eastern,COAL_LIGNITE,4711.924473949528
+trend reference,T2_constant_FY2025_26,central,p10,North Eastern,NATURAL_GAS,9055.090950226788
+trend reference,T2_constant_FY2025_26,central,p10,North Eastern,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,central,p10,North Eastern,NUCLEAR,0.0
+trend reference,T2_constant_FY2025_26,central,p10,North Eastern,HYDRO,8974.016734868435
+trend reference,T2_constant_FY2025_26,central,p50,Northern,COAL_LIGNITE,433313.7588758718
+trend reference,T2_constant_FY2025_26,central,p50,Northern,NATURAL_GAS,8510.497876689971
+trend reference,T2_constant_FY2025_26,central,p50,Northern,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,central,p50,Northern,NUCLEAR,21192.767659137255
+trend reference,T2_constant_FY2025_26,central,p50,Northern,HYDRO,127740.46164075684
+trend reference,T2_constant_FY2025_26,central,p50,Western,COAL_LIGNITE,736164.7106935333
+trend reference,T2_constant_FY2025_26,central,p50,Western,NATURAL_GAS,16007.973651643124
+trend reference,T2_constant_FY2025_26,central,p50,Western,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,central,p50,Western,NUCLEAR,29776.792500608823
+trend reference,T2_constant_FY2025_26,central,p50,Western,HYDRO,29697.341444505782
+trend reference,T2_constant_FY2025_26,central,p50,Southern,COAL_LIGNITE,379116.2457900572
+trend reference,T2_constant_FY2025_26,central,p50,Southern,NATURAL_GAS,4074.529368419226
+trend reference,T2_constant_FY2025_26,central,p50,Southern,DIESEL,100.08419473594293
+trend reference,T2_constant_FY2025_26,central,p50,Southern,NUCLEAR,33902.110696582335
+trend reference,T2_constant_FY2025_26,central,p50,Southern,HYDRO,68120.39912315151
+trend reference,T2_constant_FY2025_26,central,p50,Eastern,COAL_LIGNITE,414862.76444392133
+trend reference,T2_constant_FY2025_26,central,p50,Eastern,NATURAL_GAS,0.0
+trend reference,T2_constant_FY2025_26,central,p50,Eastern,DIESEL,569.4868512979403
+trend reference,T2_constant_FY2025_26,central,p50,Eastern,NUCLEAR,0.0
+trend reference,T2_constant_FY2025_26,central,p50,Eastern,HYDRO,20238.979651630027
+trend reference,T2_constant_FY2025_26,central,p50,North Eastern,COAL_LIGNITE,5947.83501733622
+trend reference,T2_constant_FY2025_26,central,p50,North Eastern,NATURAL_GAS,11430.188946509015
+trend reference,T2_constant_FY2025_26,central,p50,North Eastern,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,central,p50,North Eastern,NUCLEAR,0.0
+trend reference,T2_constant_FY2025_26,central,p50,North Eastern,HYDRO,11327.849433263962
+trend reference,T2_constant_FY2025_26,central,p90,Northern,COAL_LIGNITE,546740.905953387
+trend reference,T2_constant_FY2025_26,central,p90,Northern,NATURAL_GAS,10738.263495918149
+trend reference,T2_constant_FY2025_26,central,p90,Northern,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,central,p90,Northern,NUCLEAR,26740.330193243593
+trend reference,T2_constant_FY2025_26,central,p90,Northern,HYDRO,161178.6708678644
+trend reference,T2_constant_FY2025_26,central,p90,Western,COAL_LIGNITE,928868.1760294487
+trend reference,T2_constant_FY2025_26,central,p90,Western,NATURAL_GAS,20198.329357191025
+trend reference,T2_constant_FY2025_26,central,p90,Western,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,central,p90,Western,NUCLEAR,37571.36757070425
+trend reference,T2_constant_FY2025_26,central,p90,Western,HYDRO,37471.11886753491
+trend reference,T2_constant_FY2025_26,central,p90,Southern,COAL_LIGNITE,478356.2844222546
+trend reference,T2_constant_FY2025_26,central,p90,Southern,NATURAL_GAS,5141.105798261454
+trend reference,T2_constant_FY2025_26,central,p90,Southern,DIESEL,126.2829120485416
+trend reference,T2_constant_FY2025_26,central,p90,Southern,NUCLEAR,42776.55702433216
+trend reference,T2_constant_FY2025_26,central,p90,Southern,HYDRO,85952.05660470901
+trend reference,T2_constant_FY2025_26,central,p90,Eastern,COAL_LIGNITE,523460.0541345199
+trend reference,T2_constant_FY2025_26,central,p90,Eastern,NATURAL_GAS,0.0
+trend reference,T2_constant_FY2025_26,central,p90,Eastern,DIESEL,718.5595902030226
+trend reference,T2_constant_FY2025_26,central,p90,Eastern,NUCLEAR,0.0
+trend reference,T2_constant_FY2025_26,central,p90,Eastern,HYDRO,25536.872170897794
+trend reference,T2_constant_FY2025_26,central,p90,North Eastern,COAL_LIGNITE,7504.780633497585
+trend reference,T2_constant_FY2025_26,central,p90,North Eastern,NATURAL_GAS,14422.232693568669
+trend reference,T2_constant_FY2025_26,central,p90,North Eastern,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,central,p90,North Eastern,NUCLEAR,0.0
+trend reference,T2_constant_FY2025_26,central,p90,North Eastern,HYDRO,14293.104095548642
+trend reference,T2_constant_FY2025_26,high,p10,Northern,COAL_LIGNITE,542365.6852769927
+trend reference,T2_constant_FY2025_26,high,p10,Northern,NATURAL_GAS,10652.3319843661
+trend reference,T2_constant_FY2025_26,high,p10,Northern,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,high,p10,Northern,NUCLEAR,26526.344291912348
+trend reference,T2_constant_FY2025_26,high,p10,Northern,HYDRO,159888.8601994178
+trend reference,T2_constant_FY2025_26,high,p10,Western,COAL_LIGNITE,921435.0331913031
+trend reference,T2_constant_FY2025_26,high,p10,Western,NATURAL_GAS,20036.69493900513
+trend reference,T2_constant_FY2025_26,high,p10,Western,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,high,p10,Western,NUCLEAR,37270.707747292814
+trend reference,T2_constant_FY2025_26,high,p10,Western,HYDRO,37171.26127090787
+trend reference,T2_constant_FY2025_26,high,p10,Southern,COAL_LIGNITE,474528.3024960846
+trend reference,T2_constant_FY2025_26,high,p10,Southern,NATURAL_GAS,5099.964789525588
+trend reference,T2_constant_FY2025_26,high,p10,Southern,DIESEL,125.27235000378904
+trend reference,T2_constant_FY2025_26,high,p10,Southern,NUCLEAR,42434.24337133877
+trend reference,T2_constant_FY2025_26,high,p10,Southern,HYDRO,85264.23681449273
+trend reference,T2_constant_FY2025_26,high,p10,Eastern,COAL_LIGNITE,519271.13534834975
+trend reference,T2_constant_FY2025_26,high,p10,Eastern,NATURAL_GAS,0.0
+trend reference,T2_constant_FY2025_26,high,p10,Eastern,DIESEL,712.8094135799736
+trend reference,T2_constant_FY2025_26,high,p10,Eastern,NUCLEAR,0.0
+trend reference,T2_constant_FY2025_26,high,p10,Eastern,HYDRO,25332.51678077434
+trend reference,T2_constant_FY2025_26,high,p10,North Eastern,COAL_LIGNITE,7444.724634317818
+trend reference,T2_constant_FY2025_26,high,p10,North Eastern,NATURAL_GAS,14306.820713243846
+trend reference,T2_constant_FY2025_26,high,p10,North Eastern,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,high,p10,North Eastern,NUCLEAR,0.0
+trend reference,T2_constant_FY2025_26,high,p10,North Eastern,HYDRO,14178.725449488398
+trend reference,T2_constant_FY2025_26,high,p50,Northern,COAL_LIGNITE,679821.8384145884
+trend reference,T2_constant_FY2025_26,high,p50,Northern,NATURAL_GAS,13352.039241490764
+trend reference,T2_constant_FY2025_26,high,p50,Northern,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,high,p50,Northern,NUCLEAR,33249.13178041888
+trend reference,T2_constant_FY2025_26,high,p50,Northern,HYDRO,200410.7963198844
+trend reference,T2_constant_FY2025_26,high,p50,Western,COAL_LIGNITE,1154961.818657268
+trend reference,T2_constant_FY2025_26,high,p50,Western,NATURAL_GAS,25114.757734595936
+trend reference,T2_constant_FY2025_26,high,p50,Western,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,high,p50,Western,NUCLEAR,46716.526778218955
+trend reference,T2_constant_FY2025_26,high,p50,Western,HYDRO,46591.87677139524
+trend reference,T2_constant_FY2025_26,high,p50,Southern,COAL_LIGNITE,594791.8751869726
+trend reference,T2_constant_FY2025_26,high,p50,Southern,NATURAL_GAS,6392.490404915616
+trend reference,T2_constant_FY2025_26,high,p50,Southern,DIESEL,157.0211419968392
+trend reference,T2_constant_FY2025_26,high,p50,Southern,NUCLEAR,53188.69929195689
+trend reference,T2_constant_FY2025_26,high,p50,Southern,HYDRO,106873.44681990094
+trend reference,T2_constant_FY2025_26,high,p50,Eastern,COAL_LIGNITE,650874.2485962608
+trend reference,T2_constant_FY2025_26,high,p50,Eastern,NATURAL_GAS,0.0
+trend reference,T2_constant_FY2025_26,high,p50,Eastern,DIESEL,893.4625090310445
+trend reference,T2_constant_FY2025_26,high,p50,Eastern,NUCLEAR,0.0
+trend reference,T2_constant_FY2025_26,high,p50,Eastern,HYDRO,31752.742839638064
+trend reference,T2_constant_FY2025_26,high,p50,North Eastern,COAL_LIGNITE,9331.50183480707
+trend reference,T2_constant_FY2025_26,high,p50,North Eastern,NATURAL_GAS,17932.71481409213
+trend reference,T2_constant_FY2025_26,high,p50,North Eastern,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,high,p50,North Eastern,NUCLEAR,0.0
+trend reference,T2_constant_FY2025_26,high,p50,North Eastern,HYDRO,17772.155324244028
+trend reference,T2_constant_FY2025_26,high,p90,Northern,COAL_LIGNITE,851791.2744977784
+trend reference,T2_constant_FY2025_26,high,p90,Northern,NATURAL_GAS,16729.60455224133
+trend reference,T2_constant_FY2025_26,high,p90,Northern,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,high,p90,Northern,NUCLEAR,41659.91548791033
+trend reference,T2_constant_FY2025_26,high,p90,Northern,HYDRO,251107.21364664793
+trend reference,T2_constant_FY2025_26,high,p90,Western,COAL_LIGNITE,1447123.8549862318
+trend reference,T2_constant_FY2025_26,high,p90,Western,NATURAL_GAS,31467.84979627
+trend reference,T2_constant_FY2025_26,high,p90,Western,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,high,p90,Western,NUCLEAR,58534.056477693135
+trend reference,T2_constant_FY2025_26,high,p90,Western,HYDRO,58377.874692732934
+trend reference,T2_constant_FY2025_26,high,p90,Southern,COAL_LIGNITE,745251.9186614628
+trend reference,T2_constant_FY2025_26,high,p90,Southern,NATURAL_GAS,8009.550799245174
+trend reference,T2_constant_FY2025_26,high,p90,Southern,DIESEL,196.74160361853166
+trend reference,T2_constant_FY2025_26,high,p90,Southern,NUCLEAR,66643.44597171567
+trend reference,T2_constant_FY2025_26,high,p90,Southern,HYDRO,133908.42178443974
+trend reference,T2_constant_FY2025_26,high,p90,Eastern,COAL_LIGNITE,815521.0298076469
+trend reference,T2_constant_FY2025_26,high,p90,Eastern,NATURAL_GAS,0.0
+trend reference,T2_constant_FY2025_26,high,p90,Eastern,DIESEL,1119.4750246010994
+trend reference,T2_constant_FY2025_26,high,p90,Eastern,NUCLEAR,0.0
+trend reference,T2_constant_FY2025_26,high,p90,Eastern,HYDRO,39784.996250269185
+trend reference,T2_constant_FY2025_26,high,p90,North Eastern,COAL_LIGNITE,11692.021926487876
+trend reference,T2_constant_FY2025_26,high,p90,North Eastern,NATURAL_GAS,22469.019298237563
+trend reference,T2_constant_FY2025_26,high,p90,North Eastern,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,high,p90,North Eastern,NUCLEAR,0.0
+trend reference,T2_constant_FY2025_26,high,p90,North Eastern,HYDRO,22267.844277427153
+trend reference,T2_constant_FY2025_26,low,p10,Northern,COAL_LIGNITE,229980.1488770385
+trend reference,T2_constant_FY2025_26,low,p10,Northern,NATURAL_GAS,4516.924580877569
+trend reference,T2_constant_FY2025_26,low,p10,Northern,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,low,p10,Northern,NUCLEAR,11248.006234579474
+trend reference,T2_constant_FY2025_26,low,p10,Northern,HYDRO,67797.91729202516
+trend reference,T2_constant_FY2025_26,low,p10,Western,COAL_LIGNITE,390717.5027225938
+trend reference,T2_constant_FY2025_26,low,p10,Western,NATURAL_GAS,8496.190319862915
+trend reference,T2_constant_FY2025_26,low,p10,Western,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,low,p10,Western,NUCLEAR,15803.95506050022
+trend reference,T2_constant_FY2025_26,low,p10,Western,HYDRO,15761.786619418586
+trend reference,T2_constant_FY2025_26,low,p10,Southern,COAL_LIGNITE,201214.9599742521
+trend reference,T2_constant_FY2025_26,low,p10,Southern,NATURAL_GAS,2162.5458494184422
+trend reference,T2_constant_FY2025_26,low,p10,Southern,DIESEL,53.11942566818958
+trend reference,T2_constant_FY2025_26,low,p10,Southern,NUCLEAR,17993.456947854145
+trend reference,T2_constant_FY2025_26,low,p10,Southern,HYDRO,36154.72440235506
+trend reference,T2_constant_FY2025_26,low,p10,Eastern,COAL_LIGNITE,220187.3316413298
+trend reference,T2_constant_FY2025_26,low,p10,Eastern,NATURAL_GAS,0.0
+trend reference,T2_constant_FY2025_26,low,p10,Eastern,DIESEL,302.25366299188863
+trend reference,T2_constant_FY2025_26,low,p10,Eastern,NUCLEAR,0.0
+trend reference,T2_constant_FY2025_26,low,p10,Eastern,HYDRO,10741.785733913393
+trend reference,T2_constant_FY2025_26,low,p10,North Eastern,COAL_LIGNITE,3156.797943207925
+trend reference,T2_constant_FY2025_26,low,p10,North Eastern,NATURAL_GAS,6066.543011305241
+trend reference,T2_constant_FY2025_26,low,p10,North Eastern,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,low,p10,North Eastern,NUCLEAR,0.0
+trend reference,T2_constant_FY2025_26,low,p10,North Eastern,HYDRO,6012.226581212737
+trend reference,T2_constant_FY2025_26,low,p50,Northern,COAL_LIGNITE,288156.478864653
+trend reference,T2_constant_FY2025_26,low,p50,Northern,NATURAL_GAS,5659.536655134452
+trend reference,T2_constant_FY2025_26,low,p50,Northern,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,low,p50,Northern,NUCLEAR,14093.32886612323
+trend reference,T2_constant_FY2025_26,low,p50,Northern,HYDRO,84948.24104002252
+trend reference,T2_constant_FY2025_26,low,p50,Western,COAL_LIGNITE,489554.33921181335
+trend reference,T2_constant_FY2025_26,low,p50,Western,NATURAL_GAS,10645.406998343253
+trend reference,T2_constant_FY2025_26,low,p50,Western,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,low,p50,Western,NUCLEAR,19801.76143291311
+trend reference,T2_constant_FY2025_26,low,p50,Western,HYDRO,19748.925961849072
+trend reference,T2_constant_FY2025_26,low,p50,Southern,COAL_LIGNITE,252114.77879368176
+trend reference,T2_constant_FY2025_26,low,p50,Southern,NATURAL_GAS,2709.588633604038
+trend reference,T2_constant_FY2025_26,low,p50,Southern,DIESEL,66.5566429737467
+trend reference,T2_constant_FY2025_26,low,p50,Southern,NUCLEAR,22545.124968453485
+trend reference,T2_constant_FY2025_26,low,p50,Southern,HYDRO,45300.510191750494
+trend reference,T2_constant_FY2025_26,low,p50,Eastern,COAL_LIGNITE,275886.4470963212
+trend reference,T2_constant_FY2025_26,low,p50,Eastern,NATURAL_GAS,0.0
+trend reference,T2_constant_FY2025_26,low,p50,Eastern,DIESEL,378.71247443297005
+trend reference,T2_constant_FY2025_26,low,p50,Eastern,NUCLEAR,0.0
+trend reference,T2_constant_FY2025_26,low,p50,Eastern,HYDRO,13459.05361361424
+trend reference,T2_constant_FY2025_26,low,p50,North Eastern,COAL_LIGNITE,3955.3491214075607
+trend reference,T2_constant_FY2025_26,low,p50,North Eastern,NATURAL_GAS,7601.150279945839
+trend reference,T2_constant_FY2025_26,low,p50,North Eastern,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,low,p50,North Eastern,NUCLEAR,0.0
+trend reference,T2_constant_FY2025_26,low,p50,North Eastern,HYDRO,7533.093835438001
+trend reference,T2_constant_FY2025_26,low,p90,Northern,COAL_LIGNITE,363009.7180882892
+trend reference,T2_constant_FY2025_26,low,p90,Northern,NATURAL_GAS,7129.691526580872
+trend reference,T2_constant_FY2025_26,low,p90,Northern,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,low,p90,Northern,NUCLEAR,17754.295717293
+trend reference,T2_constant_FY2025_26,low,p90,Northern,HYDRO,107014.90090916463
+trend reference,T2_constant_FY2025_26,low,p90,Western,COAL_LIGNITE,616723.8833788321
+trend reference,T2_constant_FY2025_26,low,p90,Western,NATURAL_GAS,13410.721177012945
+trend reference,T2_constant_FY2025_26,low,p90,Western,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,low,p90,Western,NUCLEAR,24945.58464808856
+trend reference,T2_constant_FY2025_26,low,p90,Western,HYDRO,24879.02432110378
+trend reference,T2_constant_FY2025_26,low,p90,Southern,COAL_LIGNITE,317605.6118411025
+trend reference,T2_constant_FY2025_26,low,p90,Southern,NATURAL_GAS,3413.4474778956273
+trend reference,T2_constant_FY2025_26,low,p90,Southern,DIESEL,83.84579204325641
+trend reference,T2_constant_FY2025_26,low,p90,Southern,NUCLEAR,28401.580597143617
+trend reference,T2_constant_FY2025_26,low,p90,Southern,HYDRO,57068.03990233031
+trend reference,T2_constant_FY2025_26,low,p90,Eastern,COAL_LIGNITE,347552.34995724494
+trend reference,T2_constant_FY2025_26,low,p90,Eastern,NATURAL_GAS,0.0
+trend reference,T2_constant_FY2025_26,low,p90,Eastern,DIESEL,477.08907716422897
+trend reference,T2_constant_FY2025_26,low,p90,Eastern,NUCLEAR,0.0
+trend reference,T2_constant_FY2025_26,low,p90,Eastern,HYDRO,16955.257356223177
+trend reference,T2_constant_FY2025_26,low,p90,North Eastern,COAL_LIGNITE,4982.81411252714
+trend reference,T2_constant_FY2025_26,low,p90,North Eastern,NATURAL_GAS,9575.670243964552
+trend reference,T2_constant_FY2025_26,low,p90,North Eastern,DIESEL,0.0
+trend reference,T2_constant_FY2025_26,low,p90,North Eastern,NUCLEAR,0.0
+trend reference,T2_constant_FY2025_26,low,p90,North Eastern,HYDRO,9489.935053028645
+trend reference,T3_regime_adjusted (recommended reference),central,p10,Northern,COAL_LIGNITE,345291.9871691383
+trend reference,T3_regime_adjusted (recommended reference),central,p10,Northern,NATURAL_GAS,7500.7107758894435
+trend reference,T3_regime_adjusted (recommended reference),central,p10,Northern,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),central,p10,Northern,NUCLEAR,16840.667225037232
+trend reference,T3_regime_adjusted (recommended reference),central,p10,Northern,HYDRO,98369.63904648456
+trend reference,T3_regime_adjusted (recommended reference),central,p10,Western,COAL_LIGNITE,582753.6883832198
+trend reference,T3_regime_adjusted (recommended reference),central,p10,Western,NATURAL_GAS,14015.539757652108
+trend reference,T3_regime_adjusted (recommended reference),central,p10,Western,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),central,p10,Western,NUCLEAR,23505.827617036368
+trend reference,T3_regime_adjusted (recommended reference),central,p10,Western,HYDRO,22718.318496717093
+trend reference,T3_regime_adjusted (recommended reference),central,p10,Southern,COAL_LIGNITE,301514.5590535628
+trend reference,T3_regime_adjusted (recommended reference),central,p10,Southern,NATURAL_GAS,3584.0724143080547
+trend reference,T3_regime_adjusted (recommended reference),central,p10,Southern,DIESEL,127.75624764409196
+trend reference,T3_regime_adjusted (recommended reference),central,p10,Southern,NUCLEAR,26887.48779911616
+trend reference,T3_regime_adjusted (recommended reference),central,p10,Southern,HYDRO,52355.4204687878
+trend reference,T3_regime_adjusted (recommended reference),central,p10,Eastern,COAL_LIGNITE,328911.2937069213
+trend reference,T3_regime_adjusted (recommended reference),central,p10,Eastern,NATURAL_GAS,0.0
+trend reference,T3_regime_adjusted (recommended reference),central,p10,Eastern,DIESEL,724.6675028458208
+trend reference,T3_regime_adjusted (recommended reference),central,p10,Eastern,NUCLEAR,0.0
+trend reference,T3_regime_adjusted (recommended reference),central,p10,Eastern,HYDRO,15506.419120621178
+trend reference,T3_regime_adjusted (recommended reference),central,p10,North Eastern,COAL_LIGNITE,4579.355234160902
+trend reference,T3_regime_adjusted (recommended reference),central,p10,North Eastern,NATURAL_GAS,9733.348229042562
+trend reference,T3_regime_adjusted (recommended reference),central,p10,North Eastern,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),central,p10,North Eastern,NUCLEAR,0.0
+trend reference,T3_regime_adjusted (recommended reference),central,p10,North Eastern,HYDRO,8428.328695607579
+trend reference,T3_regime_adjusted (recommended reference),central,p50,Northern,COAL_LIGNITE,435860.07879467745
+trend reference,T3_regime_adjusted (recommended reference),central,p50,Northern,NATURAL_GAS,9468.10384045732
+trend reference,T3_regime_adjusted (recommended reference),central,p50,Northern,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),central,p50,Northern,NUCLEAR,21257.876859054217
+trend reference,T3_regime_adjusted (recommended reference),central,p50,Northern,HYDRO,124171.42655790212
+trend reference,T3_regime_adjusted (recommended reference),central,p50,Western,COAL_LIGNITE,735606.6111438023
+trend reference,T3_regime_adjusted (recommended reference),central,p50,Western,NATURAL_GAS,17691.73479292999
+trend reference,T3_regime_adjusted (recommended reference),central,p50,Western,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),central,p50,Western,NUCLEAR,29671.270281395286
+trend reference,T3_regime_adjusted (recommended reference),central,p50,Western,HYDRO,28677.20207249197
+trend reference,T3_regime_adjusted (recommended reference),central,p50,Southern,COAL_LIGNITE,380600.08442204096
+trend reference,T3_regime_adjusted (recommended reference),central,p50,Southern,NATURAL_GAS,4524.153884118168
+trend reference,T3_regime_adjusted (recommended reference),central,p50,Southern,DIESEL,161.26597266617142
+trend reference,T3_regime_adjusted (recommended reference),central,p50,Southern,NUCLEAR,33939.92037519582
+trend reference,T3_regime_adjusted (recommended reference),central,p50,Southern,HYDRO,66087.94451889876
+trend reference,T3_regime_adjusted (recommended reference),central,p50,Eastern,COAL_LIGNITE,415182.82415668876
+trend reference,T3_regime_adjusted (recommended reference),central,p50,Eastern,NATURAL_GAS,0.0
+trend reference,T3_regime_adjusted (recommended reference),central,p50,Eastern,DIESEL,914.7435985405689
+trend reference,T3_regime_adjusted (recommended reference),central,p50,Eastern,NUCLEAR,0.0
+trend reference,T3_regime_adjusted (recommended reference),central,p50,Eastern,HYDRO,19573.663191977237
+trend reference,T3_regime_adjusted (recommended reference),central,p50,North Eastern,COAL_LIGNITE,5780.493632516546
+trend reference,T3_regime_adjusted (recommended reference),central,p50,North Eastern,NATURAL_GAS,12286.349187617923
+trend reference,T3_regime_adjusted (recommended reference),central,p50,North Eastern,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),central,p50,North Eastern,NUCLEAR,0.0
+trend reference,T3_regime_adjusted (recommended reference),central,p50,North Eastern,HYDRO,10639.030576679712
+trend reference,T3_regime_adjusted (recommended reference),central,p90,Northern,COAL_LIGNITE,549953.7678363485
+trend reference,T3_regime_adjusted (recommended reference),central,p90,Northern,NATURAL_GAS,11946.538888637702
+trend reference,T3_regime_adjusted (recommended reference),central,p90,Northern,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),central,p90,Northern,NUCLEAR,26822.48281872414
+trend reference,T3_regime_adjusted (recommended reference),central,p90,Northern,HYDRO,156675.38096624278
+trend reference,T3_regime_adjusted (recommended reference),central,p90,Western,COAL_LIGNITE,928163.9845580688
+trend reference,T3_regime_adjusted (recommended reference),central,p90,Western,NATURAL_GAS,22322.84322950496
+trend reference,T3_regime_adjusted (recommended reference),central,p90,Western,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),central,p90,Western,NUCLEAR,37438.223140024966
+trend reference,T3_regime_adjusted (recommended reference),central,p90,Western,HYDRO,36183.94089769499
+trend reference,T3_regime_adjusted (recommended reference),central,p90,Southern,COAL_LIGNITE,480228.54271390033
+trend reference,T3_regime_adjusted (recommended reference),central,p90,Southern,NATURAL_GAS,5708.427075319068
+trend reference,T3_regime_adjusted (recommended reference),central,p90,Southern,DIESEL,203.48004693803028
+trend reference,T3_regime_adjusted (recommended reference),central,p90,Southern,NUCLEAR,42824.2640207418
+trend reference,T3_regime_adjusted (recommended reference),central,p90,Southern,HYDRO,83387.57290467352
+trend reference,T3_regime_adjusted (recommended reference),central,p90,Eastern,COAL_LIGNITE,523863.89484747493
+trend reference,T3_regime_adjusted (recommended reference),central,p90,Eastern,NATURAL_GAS,0.0
+trend reference,T3_regime_adjusted (recommended reference),central,p90,Eastern,DIESEL,1154.1930841951407
+trend reference,T3_regime_adjusted (recommended reference),central,p90,Eastern,NUCLEAR,0.0
+trend reference,T3_regime_adjusted (recommended reference),central,p90,Eastern,HYDRO,24697.39796440145
+trend reference,T3_regime_adjusted (recommended reference),central,p90,North Eastern,COAL_LIGNITE,7293.634833333849
+trend reference,T3_regime_adjusted (recommended reference),central,p90,North Eastern,NATURAL_GAS,15502.50724353802
+trend reference,T3_regime_adjusted (recommended reference),central,p90,North Eastern,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),central,p90,North Eastern,NUCLEAR,0.0
+trend reference,T3_regime_adjusted (recommended reference),central,p90,North Eastern,HYDRO,13423.9753453708
+trend reference,T3_regime_adjusted (recommended reference),high,p10,Northern,COAL_LIGNITE,545552.8366642009
+trend reference,T3_regime_adjusted (recommended reference),high,p10,Northern,NATURAL_GAS,11850.938315518379
+trend reference,T3_regime_adjusted (recommended reference),high,p10,Northern,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),high,p10,Northern,NUCLEAR,26607.839502040013
+trend reference,T3_regime_adjusted (recommended reference),high,p10,Northern,HYDRO,155421.60727047338
+trend reference,T3_regime_adjusted (recommended reference),high,p10,Western,COAL_LIGNITE,920736.476917605
+trend reference,T3_regime_adjusted (recommended reference),high,p10,Western,NATURAL_GAS,22144.207674363304
+trend reference,T3_regime_adjusted (recommended reference),high,p10,Western,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),high,p10,Western,NUCLEAR,37138.6287870397
+trend reference,T3_regime_adjusted (recommended reference),high,p10,Western,HYDRO,35894.38376991258
+trend reference,T3_regime_adjusted (recommended reference),high,p10,Southern,COAL_LIGNITE,476385.57829218276
+trend reference,T3_regime_adjusted (recommended reference),high,p10,Southern,NATURAL_GAS,5662.746154250841
+trend reference,T3_regime_adjusted (recommended reference),high,p10,Southern,DIESEL,201.85172518836237
+trend reference,T3_regime_adjusted (recommended reference),high,p10,Southern,NUCLEAR,42481.56859891636
+trend reference,T3_regime_adjusted (recommended reference),high,p10,Southern,HYDRO,82720.27505087448
+trend reference,T3_regime_adjusted (recommended reference),high,p10,Eastern,COAL_LIGNITE,519671.7443802325
+trend reference,T3_regime_adjusted (recommended reference),high,p10,Eastern,NATURAL_GAS,0.0
+trend reference,T3_regime_adjusted (recommended reference),high,p10,Eastern,DIESEL,1144.956809038966
+trend reference,T3_regime_adjusted (recommended reference),high,p10,Eastern,NUCLEAR,0.0
+trend reference,T3_regime_adjusted (recommended reference),high,p10,Eastern,HYDRO,24499.76035387996
+trend reference,T3_regime_adjusted (recommended reference),high,p10,North Eastern,COAL_LIGNITE,7235.268500064486
+trend reference,T3_regime_adjusted (recommended reference),high,p10,North Eastern,NATURAL_GAS,15378.450511200414
+trend reference,T3_regime_adjusted (recommended reference),high,p10,North Eastern,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),high,p10,North Eastern,NUCLEAR,0.0
+trend reference,T3_regime_adjusted (recommended reference),high,p10,North Eastern,HYDRO,13316.551785415924
+trend reference,T3_regime_adjusted (recommended reference),high,p50,Northern,COAL_LIGNITE,683816.7355378207
+trend reference,T3_regime_adjusted (recommended reference),high,p50,Northern,NATURAL_GAS,14854.41813762571
+trend reference,T3_regime_adjusted (recommended reference),high,p50,Northern,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),high,p50,Northern,NUCLEAR,33351.28098545402
+trend reference,T3_regime_adjusted (recommended reference),high,p50,Northern,HYDRO,194811.37109576393
+trend reference,T3_regime_adjusted (recommended reference),high,p50,Western,COAL_LIGNITE,1154086.2215769798
+trend reference,T3_regime_adjusted (recommended reference),high,p50,Western,NATURAL_GAS,27756.39458781744
+trend reference,T3_regime_adjusted (recommended reference),high,p50,Western,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),high,p50,Western,NUCLEAR,46550.97397126394
+trend reference,T3_regime_adjusted (recommended reference),high,p50,Western,HYDRO,44991.389805184794
+trend reference,T3_regime_adjusted (recommended reference),high,p50,Southern,COAL_LIGNITE,597119.8555156072
+trend reference,T3_regime_adjusted (recommended reference),high,p50,Southern,NATURAL_GAS,7097.902034670621
+trend reference,T3_regime_adjusted (recommended reference),high,p50,Southern,DIESEL,253.008651966635
+trend reference,T3_regime_adjusted (recommended reference),high,p50,Southern,NUCLEAR,53248.01853741917
+trend reference,T3_regime_adjusted (recommended reference),high,p50,Southern,HYDRO,103684.74810607002
+trend reference,T3_regime_adjusted (recommended reference),high,p50,Eastern,COAL_LIGNITE,651376.3872372037
+trend reference,T3_regime_adjusted (recommended reference),high,p50,Eastern,NATURAL_GAS,0.0
+trend reference,T3_regime_adjusted (recommended reference),high,p50,Eastern,DIESEL,1435.1325387218944
+trend reference,T3_regime_adjusted (recommended reference),high,p50,Eastern,NUCLEAR,0.0
+trend reference,T3_regime_adjusted (recommended reference),high,p50,Eastern,HYDRO,30708.934168664506
+trend reference,T3_regime_adjusted (recommended reference),high,p50,North Eastern,COAL_LIGNITE,9068.961526634072
+trend reference,T3_regime_adjusted (recommended reference),high,p50,North Eastern,NATURAL_GAS,19275.936480322678
+trend reference,T3_regime_adjusted (recommended reference),high,p50,North Eastern,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),high,p50,North Eastern,NUCLEAR,0.0
+trend reference,T3_regime_adjusted (recommended reference),high,p50,North Eastern,HYDRO,16691.47396648665
+trend reference,T3_regime_adjusted (recommended reference),high,p90,Northern,COAL_LIGNITE,856796.730809716
+trend reference,T3_regime_adjusted (recommended reference),high,p90,Northern,NATURAL_GAS,18612.028979355593
+trend reference,T3_regime_adjusted (recommended reference),high,p90,Northern,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),high,p90,Northern,NUCLEAR,41787.90461186781
+trend reference,T3_regime_adjusted (recommended reference),high,p90,Northern,HYDRO,244091.3437839915
+trend reference,T3_regime_adjusted (recommended reference),high,p90,Western,COAL_LIGNITE,1446026.7646740037
+trend reference,T3_regime_adjusted (recommended reference),high,p90,Western,NATURAL_GAS,34777.72172861827
+trend reference,T3_regime_adjusted (recommended reference),high,p90,Western,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),high,p90,Western,NUCLEAR,58326.6250177657
+trend reference,T3_regime_adjusted (recommended reference),high,p90,Western,HYDRO,56372.524532248535
+trend reference,T3_regime_adjusted (recommended reference),high,p90,Southern,COAL_LIGNITE,748168.790728647
+trend reference,T3_regime_adjusted (recommended reference),high,p90,Southern,NATURAL_GAS,8893.40512283655
+trend reference,T3_regime_adjusted (recommended reference),high,p90,Southern,DIESEL,317.01035468383407
+trend reference,T3_regime_adjusted (recommended reference),high,p90,Southern,NUCLEAR,66717.77076218191
+trend reference,T3_regime_adjusted (recommended reference),high,p90,Southern,HYDRO,129913.10185212085
+trend reference,T3_regime_adjusted (recommended reference),high,p90,Eastern,COAL_LIGNITE,816150.1906977127
+trend reference,T3_regime_adjusted (recommended reference),high,p90,Eastern,NATURAL_GAS,0.0
+trend reference,T3_regime_adjusted (recommended reference),high,p90,Eastern,DIESEL,1798.1672625904312
+trend reference,T3_regime_adjusted (recommended reference),high,p90,Eastern,NUCLEAR,0.0
+trend reference,T3_regime_adjusted (recommended reference),high,p90,Eastern,HYDRO,38477.14312178794
+trend reference,T3_regime_adjusted (recommended reference),high,p90,North Eastern,COAL_LIGNITE,11363.06876395453
+trend reference,T3_regime_adjusted (recommended reference),high,p90,North Eastern,NATURAL_GAS,24152.025683674972
+trend reference,T3_regime_adjusted (recommended reference),high,p90,North Eastern,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),high,p90,North Eastern,NUCLEAR,0.0
+trend reference,T3_regime_adjusted (recommended reference),high,p90,North Eastern,HYDRO,20913.791054899204
+trend reference,T3_regime_adjusted (recommended reference),low,p10,Northern,COAL_LIGNITE,231331.60154158063
+trend reference,T3_regime_adjusted (recommended reference),low,p10,Northern,NATURAL_GAS,5025.171451884132
+trend reference,T3_regime_adjusted (recommended reference),low,p10,Northern,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),low,p10,Northern,NUCLEAR,11282.562772846375
+trend reference,T3_regime_adjusted (recommended reference),low,p10,Northern,HYDRO,65903.66121801612
+trend reference,T3_regime_adjusted (recommended reference),low,p10,Western,COAL_LIGNITE,390421.2928402483
+trend reference,T3_regime_adjusted (recommended reference),low,p10,Western,NATURAL_GAS,9389.84215993166
+trend reference,T3_regime_adjusted (recommended reference),low,p10,Western,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),low,p10,Western,NUCLEAR,15747.949417504884
+trend reference,T3_regime_adjusted (recommended reference),low,p10,Western,HYDRO,15220.350304865115
+trend reference,T3_regime_adjusted (recommended reference),low,p10,Southern,COAL_LIGNITE,202002.50346324375
+trend reference,T3_regime_adjusted (recommended reference),low,p10,Southern,NATURAL_GAS,2401.1828899949223
+trend reference,T3_regime_adjusted (recommended reference),low,p10,Southern,DIESEL,85.59149494533091
+trend reference,T3_regime_adjusted (recommended reference),low,p10,Southern,NUCLEAR,18013.524336295897
+trend reference,T3_regime_adjusted (recommended reference),low,p10,Southern,HYDRO,35076.004415054194
+trend reference,T3_regime_adjusted (recommended reference),low,p10,Eastern,COAL_LIGNITE,220357.20250022606
+trend reference,T3_regime_adjusted (recommended reference),low,p10,Eastern,NATURAL_GAS,0.0
+trend reference,T3_regime_adjusted (recommended reference),low,p10,Eastern,DIESEL,485.49778230545866
+trend reference,T3_regime_adjusted (recommended reference),low,p10,Eastern,NUCLEAR,0.0
+trend reference,T3_regime_adjusted (recommended reference),low,p10,Eastern,HYDRO,10388.670755893218
+trend reference,T3_regime_adjusted (recommended reference),low,p10,North Eastern,COAL_LIGNITE,3067.9819390866664
+trend reference,T3_regime_adjusted (recommended reference),low,p10,North Eastern,NATURAL_GAS,6520.947829245105
+trend reference,T3_regime_adjusted (recommended reference),low,p10,North Eastern,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),low,p10,North Eastern,NUCLEAR,0.0
+trend reference,T3_regime_adjusted (recommended reference),low,p10,North Eastern,HYDRO,5646.637767237559
+trend reference,T3_regime_adjusted (recommended reference),low,p50,Northern,COAL_LIGNITE,289849.7982362083
+trend reference,T3_regime_adjusted (recommended reference),low,p50,Northern,NATURAL_GAS,6296.350873484806
+trend reference,T3_regime_adjusted (recommended reference),low,p50,Northern,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),low,p50,Northern,NUCLEAR,14136.626909182005
+trend reference,T3_regime_adjusted (recommended reference),low,p50,Northern,HYDRO,82574.8094068155
+trend reference,T3_regime_adjusted (recommended reference),low,p50,Western,COAL_LIGNITE,489183.1993672731
+trend reference,T3_regime_adjusted (recommended reference),low,p50,Western,NATURAL_GAS,11765.119150989984
+trend reference,T3_regime_adjusted (recommended reference),low,p50,Western,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),low,p50,Western,NUCLEAR,19731.588468155554
+trend reference,T3_regime_adjusted (recommended reference),low,p50,Western,HYDRO,19070.526618718806
+trend reference,T3_regime_adjusted (recommended reference),low,p50,Southern,COAL_LIGNITE,253101.54117229878
+trend reference,T3_regime_adjusted (recommended reference),low,p50,Southern,NATURAL_GAS,3008.59187225298
+trend reference,T3_regime_adjusted (recommended reference),low,p50,Southern,DIESEL,107.24292476823742
+trend reference,T3_regime_adjusted (recommended reference),low,p50,Southern,NUCLEAR,22570.268651600156
+trend reference,T3_regime_adjusted (recommended reference),low,p50,Southern,HYDRO,43948.91460952595
+trend reference,T3_regime_adjusted (recommended reference),low,p50,Eastern,COAL_LIGNITE,276099.2888950603
+trend reference,T3_regime_adjusted (recommended reference),low,p50,Eastern,NATURAL_GAS,0.0
+trend reference,T3_regime_adjusted (recommended reference),low,p50,Eastern,DIESEL,608.3104656156108
+trend reference,T3_regime_adjusted (recommended reference),low,p50,Eastern,NUCLEAR,0.0
+trend reference,T3_regime_adjusted (recommended reference),low,p50,Eastern,HYDRO,13016.613823930193
+trend reference,T3_regime_adjusted (recommended reference),low,p50,North Eastern,COAL_LIGNITE,3844.066007889385
+trend reference,T3_regime_adjusted (recommended reference),low,p50,North Eastern,NATURAL_GAS,8170.502430364234
+trend reference,T3_regime_adjusted (recommended reference),low,p50,North Eastern,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),low,p50,North Eastern,NUCLEAR,0.0
+trend reference,T3_regime_adjusted (recommended reference),low,p50,North Eastern,HYDRO,7075.0247983415975
+trend reference,T3_regime_adjusted (recommended reference),low,p90,Northern,COAL_LIGNITE,365142.9041617853
+trend reference,T3_regime_adjusted (recommended reference),low,p90,Northern,NATURAL_GAS,7931.928390345984
+trend reference,T3_regime_adjusted (recommended reference),low,p90,Northern,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),low,p90,Northern,NUCLEAR,17808.84111730091
+trend reference,T3_regime_adjusted (recommended reference),low,p90,Northern,HYDRO,104024.93257158996
+trend reference,T3_regime_adjusted (recommended reference),low,p90,Western,COAL_LIGNITE,616256.3340428992
+trend reference,T3_regime_adjusted (recommended reference),low,p90,Western,NATURAL_GAS,14821.296411947154
+trend reference,T3_regime_adjusted (recommended reference),low,p90,Western,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),low,p90,Western,NUCLEAR,24857.183137026153
+trend reference,T3_regime_adjusted (recommended reference),low,p90,Western,HYDRO,24024.399933440192
+trend reference,T3_regime_adjusted (recommended reference),low,p90,Southern,COAL_LIGNITE,318848.70147869526
+trend reference,T3_regime_adjusted (recommended reference),low,p90,Southern,NATURAL_GAS,3790.1215745430236
+trend reference,T3_regime_adjusted (recommended reference),low,p90,Southern,DIESEL,135.10098416134176
+trend reference,T3_regime_adjusted (recommended reference),low,p90,Southern,NUCLEAR,28433.255752832414
+trend reference,T3_regime_adjusted (recommended reference),low,p90,Southern,HYDRO,55365.34582026127
+trend reference,T3_regime_adjusted (recommended reference),low,p90,Eastern,COAL_LIGNITE,347820.48080636584
+trend reference,T3_regime_adjusted (recommended reference),low,p90,Eastern,NATURAL_GAS,0.0
+trend reference,T3_regime_adjusted (recommended reference),low,p90,Eastern,DIESEL,766.3288068459469
+trend reference,T3_regime_adjusted (recommended reference),low,p90,Eastern,NUCLEAR,0.0
+trend reference,T3_regime_adjusted (recommended reference),low,p90,Eastern,HYDRO,16397.88677771993
+trend reference,T3_regime_adjusted (recommended reference),low,p90,North Eastern,COAL_LIGNITE,4842.623436178698
+trend reference,T3_regime_adjusted (recommended reference),low,p90,North Eastern,NATURAL_GAS,10292.92069216087
+trend reference,T3_regime_adjusted (recommended reference),low,p90,North Eastern,DIESEL,0.0
+trend reference,T3_regime_adjusted (recommended reference),low,p90,North Eastern,NUCLEAR,0.0
+trend reference,T3_regime_adjusted (recommended reference),low,p90,North Eastern,HYDRO,8912.875280933631

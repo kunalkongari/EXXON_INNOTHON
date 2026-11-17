@@ -1,0 +1,10 @@
+level_cat,selected_model,description,MASE,WAPE_%,best_baseline,baseline_MASE,baseline_WAPE_%,snaive_MASE,improvement_vs_best_baseline_%,runner_up
+Bhutan import (separate),hw_add,"Holt-Winters damped trend, additive seasonality",0.9592354079676763,24.21567590179011,snaive,1.0309632224860663,25.762121492332465,1.0309632224860663,6.957359191283807,snaive
+National,ets_auto,"ETS state-space, AICc selection over error{A,M} x trend{N,Ad} x season{A,M}",0.7095121995438688,4.152085040285955,lintrend_season,0.768800117691016,4.533887108760064,0.8904706216260672,7.711746757428994,hw_mul
+National sources,ets_auto,"ETS state-space, AICc selection over error{A,M} x trend{N,Ad} x season{A,M}",0.7987771023794465,5.98654178582093,lintrend_season,0.8615084770618805,6.887149825709007,0.9147811241076409,7.281573699236866,hw_add
+Regions (5),ets_auto,"ETS state-space, AICc selection over error{A,M} x trend{N,Ad} x season{A,M}",0.7099943017907157,5.325410221165783,snaive,0.8004593810340108,6.153911915491067,0.8004593810340108,11.301645203587341,hw_mul
+State x source (eligible),ets_auto,"ETS state-space, AICc selection over error{A,M} x trend{N,Ad} x season{A,M}",0.9608487883805028,10.847339188527634,lintrend_season,1.0307705283351718,12.169532733570207,1.0498516527037143,6.783443844441461,hw_add
+State x source (ineligible),snaive,Seasonal naive: value 12 months earlier,0.6717104990441608,105.25571578841885,snaive,0.6717104990441608,105.25571578841885,0.6717104990441608,0.0,lintrend
+States group A,ets_auto,"ETS state-space, AICc selection over error{A,M} x trend{N,Ad} x season{A,M}",0.7714817377985476,6.90511993037992,lintrend_season,0.7903958855219707,7.0455565669624205,0.8672843371931276,2.392996733647268,hw_mul
+States group B,ets_auto,"ETS state-space, AICc selection over error{A,M} x trend{N,Ad} x season{A,M}",0.9760765507655113,19.41662322807039,snaive,1.1177317748818107,22.15392431277896,1.1177317748818107,12.673454159543617,hw_mul
+States group C,snaive,Seasonal naive: value 12 months earlier,0.9016208836809296,27.430498700986817,snaive,0.9016208836809296,27.430498700986817,0.9016208836809296,0.0,lintrend_season

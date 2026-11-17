@@ -1,0 +1,3 @@
+experiment,node_id,model,spec,selected_on
+EXT,TOTAL,arima,"((0, 1, 2), (0, 0, 0), 't')",2018-07..2023-06
+EXT,TOTAL,sarima,"((1, 0, 0), (1, 1, 0), 'c')",2018-07..2023-06

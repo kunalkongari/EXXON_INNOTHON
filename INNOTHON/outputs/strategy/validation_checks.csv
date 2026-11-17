@@ -1,0 +1,20 @@
+check,max_abs_diff_gwh,tolerance_gwh,result,detail
+Historical: national sources sum to domestic total (FY),0.25,1.0,PASS,
+"Approved 2047 low scenario reproduced (TWh, rounding)",0.4734611770329593,0.5,PASS,"median, P10, P90 vs approved values"
+"Approved 2047 central scenario reproduced (TWh, rounding)",0.34908694379305416,0.5,PASS,"median, P10, P90 vs approved values"
+"Approved 2047 high scenario reproduced (TWh, rounding)",0.34389045734224055,0.5,PASS,"median, P10, P90 vs approved values"
+Every source mix sums exactly to its conventional total,4.656612873077393e-10,1e-06,PASS,
+No negative source allocation,0.0,1e-09,PASS,
+Historical: sum of regions = national (FY),0.6000000003259629,1.0,PASS,
+Region x source 2047 (IPF): rows = regional totals,9.82079654932022e-07,1.0,PASS,
+Region x source 2047 (IPF): columns = national source totals,4.656612873077393e-10,1.0,PASS,
+States sum to regions (actual FY),0.09999999997671694,1.0,PASS,
+"States sum to regions (forecast FY, reconciled BU)",1.1641532182693481e-10,1.0,PASS,
+States sum to regions (2047 all scenarios/quantiles),2.3283064365386963e-10,1.0,PASS,
+Regions sum to national (2047 all scenarios/quantiles),2.3283064365386963e-10,1.0,PASS,
+Regions sum to national (forecast FY2026-27),0.0,1.0,PASS,
+National sources sum to national (forecast FY2026-27),2.3283064365386963e-10,1.0,PASS,
+Monthly forecast: Bhutan import not in TOTAL (TOTAL = sum of regions),7.275957614183426e-11,1.0,PASS,
+Intervals ordered lo95<=lo80<=forecast<=hi80<=hi95 (monthly),0.0,0.0,PASS,
+No renewable series in any strategy output,0.0,0.0,PASS,
+"State series count = 33 (34 states/UTs, J&K+Ladakh harmonised)",0.0,0.0,PASS,

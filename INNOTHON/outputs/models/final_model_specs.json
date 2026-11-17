@@ -1,0 +1,590 @@
+{
+ "experiment": "A",
+ "reconciliation": "BU",
+ "origin": "2026-09",
+ "horizon": 18,
+ "nodes": {
+  "TOTAL": {
+   "level_cat": "National",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "REG|Eastern": {
+   "level_cat": "Regions (5)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "REG|North Eastern": {
+   "level_cat": "Regions (5)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "REG|Northern": {
+   "level_cat": "Regions (5)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "REG|Southern": {
+   "level_cat": "Regions (5)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "REG|Western": {
+   "level_cat": "Regions (5)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "NSRC|COAL_LIGNITE": {
+   "level_cat": "National sources",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "NSRC|NATURAL_GAS": {
+   "level_cat": "National sources",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "NSRC|DIESEL": {
+   "level_cat": "National sources",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "NSRC|NUCLEAR": {
+   "level_cat": "National sources",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "NSRC|HYDRO": {
+   "level_cat": "National sources",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "NSRC|COAL": {
+   "level_cat": "National sources",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "NSRC|LIGNITE": {
+   "level_cat": "National sources",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|ANDHRA PRADESH": {
+   "level_cat": "States group A",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|ARUNACHAL PRADESH": {
+   "level_cat": "States group B",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|ASSAM": {
+   "level_cat": "States group B",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|BIHAR": {
+   "level_cat": "States group A",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|CHHATTISGARH": {
+   "level_cat": "States group A",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|DELHI": {
+   "level_cat": "States group B",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|GUJARAT": {
+   "level_cat": "States group B",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|HARYANA": {
+   "level_cat": "States group B",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|HIMACHAL PRADESH": {
+   "level_cat": "States group A",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|JAMMU AND KASHMIR + LADAKH": {
+   "level_cat": "States group B",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|JHARKHAND": {
+   "level_cat": "States group A",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|KARNATAKA": {
+   "level_cat": "States group A",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|KERALA": {
+   "level_cat": "States group B",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|MADHYA PRADESH": {
+   "level_cat": "States group A",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|MAHARASHTRA": {
+   "level_cat": "States group A",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|ODISHA": {
+   "level_cat": "States group A",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|PUNJAB": {
+   "level_cat": "States group A",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|RAJASTHAN": {
+   "level_cat": "States group A",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|SIKKIM": {
+   "level_cat": "States group B",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|TAMIL NADU": {
+   "level_cat": "States group A",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|TELANGANA": {
+   "level_cat": "States group A",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|TRIPURA": {
+   "level_cat": "States group B",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|UTTAR PRADESH": {
+   "level_cat": "States group A",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|UTTARAKHAND": {
+   "level_cat": "States group B",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "ST|WEST BENGAL": {
+   "level_cat": "States group A",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|ANDAMAN AND NICOBAR ISLANDS|DIESEL": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|ANDHRA PRADESH|COAL_LIGNITE": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|ANDHRA PRADESH|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|ARUNACHAL PRADESH|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|ASSAM|COAL_LIGNITE": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|ASSAM|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|ASSAM|NATURAL_GAS": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|BIHAR|COAL_LIGNITE": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|CHHATTISGARH|COAL_LIGNITE": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|CHHATTISGARH|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|DELHI|NATURAL_GAS": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|GUJARAT|COAL_LIGNITE": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|GUJARAT|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|GUJARAT|NATURAL_GAS": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|GUJARAT|NUCLEAR": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|HARYANA|COAL_LIGNITE": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|HIMACHAL PRADESH|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|JAMMU AND KASHMIR + LADAKH|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|JHARKHAND|COAL_LIGNITE": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|JHARKHAND|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|KARNATAKA|COAL_LIGNITE": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|KARNATAKA|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|KARNATAKA|NUCLEAR": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|KERALA|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|MADHYA PRADESH|COAL_LIGNITE": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|MADHYA PRADESH|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|MAHARASHTRA|COAL_LIGNITE": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|MAHARASHTRA|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|MAHARASHTRA|NATURAL_GAS": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|MAHARASHTRA|NUCLEAR": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|MANIPUR|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|MEGHALAYA|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|MIZORAM|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|NAGALAND|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|ODISHA|COAL_LIGNITE": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|ODISHA|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|PUDUCHERRY|NATURAL_GAS": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|PUNJAB|COAL_LIGNITE": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|PUNJAB|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|RAJASTHAN|COAL_LIGNITE": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|RAJASTHAN|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|RAJASTHAN|NATURAL_GAS": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|RAJASTHAN|NUCLEAR": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|SIKKIM|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|TAMIL NADU|COAL_LIGNITE": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|TAMIL NADU|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|TAMIL NADU|NATURAL_GAS": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|TAMIL NADU|NUCLEAR": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|TELANGANA|COAL_LIGNITE": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|TELANGANA|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|TRIPURA|NATURAL_GAS": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|UTTAR PRADESH|COAL_LIGNITE": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|UTTAR PRADESH|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|UTTAR PRADESH|NATURAL_GAS": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|UTTAR PRADESH|NUCLEAR": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|UTTARAKHAND|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|WEST BENGAL|COAL_LIGNITE": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "CELL|WEST BENGAL|HYDRO": {
+   "level_cat": "State x source (eligible)",
+   "model": "ets_auto",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  },
+  "IMPORT|BHUTAN": {
+   "level_cat": "Bhutan import (separate)",
+   "model": "hw_add",
+   "spec": "None",
+   "train": "2019-07..2026-09"
+  }
+ }
+}

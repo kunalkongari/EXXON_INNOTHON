@@ -1,0 +1,42 @@
+{
+  "base_year": "FY2027-28 = statistical forecast (reconciled national TOTAL)",
+  "start_growth_g0": {
+    "central": 0.0349,
+    "high": 0.06368,
+    "low": 0.00693
+  },
+  "start_growth_source": {
+    "central": "CAGR FY2019-20 -> FY2025-26 (all observed complete FYs)",
+    "high": "CAGR FY2020-21 -> FY2024-25 (post-COVID expansion)",
+    "low": "CAGR FY2023-24 -> FY2025-26 (most recent observed slowdown)"
+  },
+  "terminal_growth_gT_FY2046_47": {
+    "low": -0.015,
+    "central": 0.0,
+    "high": 0.02
+  },
+  "terminal_growth_source": "ASSUMPTION (not estimated): central = conventional generation plateaus by 2047; high = continued expansion; low = gradual decline",
+  "growth_path": "linear interpolation g0 -> gT between FY2028-29 and FY2046-47",
+  "shock_sigma_log_growth": 0.04126,
+  "shock_sigma_source": "std of observed FY log growth FY2020-21..FY2025-26 excluding FY2020-21 (COVID)",
+  "n_sim": 5000,
+  "share_damping_phi": 0.8,
+  "seed": 20470,
+  "excluded": "solar, wind, small hydro, biomass, waste-to-energy (no authorised generation data); Bhutan import (separate)",
+  "optional_population_gsdp_experiment": {
+    "Population": {
+      "elasticity": 5.452,
+      "r2": 0.931,
+      "n_years": 6,
+      "years": "2019..2024 (GitHub 'Year' mapped to FY start; year basis undocumented)"
+    },
+    "GSDP (crore INR)": {
+      "elasticity": 1.867,
+      "r2": 0.964,
+      "n_years": 6,
+      "years": "2019..2024 (GitHub 'Year' mapped to FY start; year basis undocumented)"
+    }
+  },
+  "optional_experiment_decision": "NOT used: <= 6 overlapping years, values partly XGBoost-imputed (unflagged), GSDP nominal, and no authorised projections of population/GSDP to 2047 exist.",
+  "reference_loglinear_trend_FY2046_47_gwh": 4071309.134655287
+}

@@ -1,0 +1,48 @@
+{
+  "main_data_start": "2019-07",
+  "main_data_end": "2026-09",
+  "extended_data_start": "2018-07",
+  "experiment_B_start": "2021-04",
+  "covid_months": [
+    "2020-03",
+    "2020-04",
+    "2020-05"
+  ],
+  "horizon_max": 12,
+  "report_horizons": [
+    1,
+    3,
+    6,
+    12
+  ],
+  "origins_monthly": {
+    "first": "2023-06",
+    "last": "2026-08"
+  },
+  "origins_quarterly": {
+    "first": "2023-06",
+    "last": "2026-06",
+    "step": 3
+  },
+  "selection_metric": "mean MASE over horizons 1-12 (rolling-origin, out-of-sample); tie-break WAPE, then simplicity",
+  "seed": 20470,
+  "rf_params": {
+    "n_estimators": 500,
+    "min_samples_leaf": 3,
+    "max_features": 0.6
+  },
+  "xgb_params": {
+    "n_estimators": 400,
+    "max_depth": 3,
+    "learning_rate": 0.03,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8,
+    "min_child_weight": 3,
+    "reg_lambda": 1.0
+  },
+  "state_groups_rule": "C if <60 months or <1000 GWh FY2025-26 or >6 zero months; A if >=2% share and median|YoY|<15%; else B",
+  "state_source_eligibility": {
+    "min_months": 84,
+    "min_nonzero": 72
+  }
+}

@@ -1,0 +1,16 @@
+data_requirement,status,dataset,historical_coverage,granularity,unit,evidence_notes
+National generation,AVAILABLE,"NPP report 01 (All India), also 02/04/17",2019-07 to 2026-09 (87 months),monthly (c4) + FY-to-date cumulative (c9),GWh (=MU),"Conventional generation only: THERMAL, NUCLEAR, HYDRO (>25 MW), BHUTAN IMPORT. Excludes RE (solar, wind, small hydro, biomass)."
+Region-wise generation,AVAILABLE,NPP report 02 (Region Wise),2019-07 to 2026-09 (87 months),monthly; 5 regions x THERMAL/NUCLEAR/HYDRO + Bhutan import,GWh,"Conventional only. Regions: Northern, Western, Southern, Eastern, North Eastern."
+State-wise generation,PARTIALLY AVAILABLE,NPP report 16 'TOTAL <STATE>' rows,2019-07 to 2026-09 (87 months),monthly; 35 states/UTs with conventional stations,GWh,Generation by LOCATION of monitored conventional stations (>25 MW). States with no monitored conventional plant are absent. No RE.
+Station-wise generation,AVAILABLE,NPP report 16 station rows (+ reports 5-15),2019-07 to 2026-09 (87 months),monthly; ~518 stations/month,GWh,Monitored conventional stations only.
+Coal generation,AVAILABLE,NPP report 11 ('TOTAL COAL BASED'); state-level via report 16 THERMAL group,2019-07 to 2026-09 (87 months),"monthly, national (+ sector); state-level only as THERMAL group",GWh,"Lignite separately in report 11 ('TOTAL LIGNITE BASED', 87 months). At state level coal is reported inside 'THERMAL' group."
+Hydro generation,PARTIALLY AVAILABLE,NPP reports 01/02/16,2019-07 to 2026-09 (87 months),"monthly; national, regional, state, station",GWh,Large hydro (>25 MW) only. Small hydro generation NOT available (only small-hydro capacity in GitHub dataset).
+Nuclear generation,AVAILABLE,NPP reports 01/02/10/16,2019-07 to 2026-09 (87 months),"monthly; national, regional, state, station",GWh,
+Natural gas generation,AVAILABLE,"NPP reports 12-14 (gas & liquid fuel by sector), 16 ('NATURAL GAS' group), 17-20",2019-07 to 2026-09 (87 months),"monthly; station, state (report 16), national via sector totals",GWh,Reports 12-14 combine gas and liquid fuel stations; report 16 state 'NATURAL GAS' group gives gas at state level.
+Solar generation,NOT AVAILABLE,none,,,,NPP monthly/daily generation reports cover conventional sources only. NPP dashboard and GitHub dataset contain only solar INSTALLED CAPACITY (prohibited as substitute).
+Wind generation,NOT AVAILABLE,none,,,,Same as solar: only wind INSTALLED CAPACITY exists in authorised sources.
+Population,PARTIALLY AVAILABLE,Renewable India dataset,2006 to 2024 (19 years),"annual, 34 states/UTs (unbalanced panel, 635 rows)",persons,README states some values were predicted by XGBoost; imputed cells not flagged; year basis (CY/FY) not documented.
+GSDP,PARTIALLY AVAILABLE,Renewable India dataset,2006 to 2024 (19 years),"annual, state",INR crore (nominal),Nominal (not inflation adjusted); partly model-predicted; not flagged.
+Geographic indicators,NOT AVAILABLE,none,,,,"Only categorical region/zone labels exist. No area, land availability, terrain or resource-potential data in authorised sources."
+Climatic indicators,NOT AVAILABLE,none,,,,"No irradiance, wind speed, rainfall or temperature data in authorised sources."
+Urbanization indicators,NOT AVAILABLE,none,,,,No urban population share or urbanisation rate in authorised sources.

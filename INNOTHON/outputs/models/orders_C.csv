@@ -1,0 +1,241 @@
+experiment,node_id,model,spec,selected_on
+C,CELL|ANDAMAN AND NICOBAR ISLANDS|DIESEL,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|ANDAMAN AND NICOBAR ISLANDS|DIESEL,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|ANDHRA PRADESH|COAL_LIGNITE,arima,"((1, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|ANDHRA PRADESH|COAL_LIGNITE,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|ANDHRA PRADESH|DIESEL,arima,"((0, 1, 0), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|ANDHRA PRADESH|DIESEL,sarima,"((1, 1, 0), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|ANDHRA PRADESH|HYDRO,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|ANDHRA PRADESH|HYDRO,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|ANDHRA PRADESH|NATURAL_GAS,arima,"((1, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|ANDHRA PRADESH|NATURAL_GAS,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|ARUNACHAL PRADESH|HYDRO,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|ARUNACHAL PRADESH|HYDRO,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|ASSAM|COAL_LIGNITE,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|ASSAM|COAL_LIGNITE,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|ASSAM|HYDRO,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|ASSAM|HYDRO,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|ASSAM|NATURAL_GAS,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|ASSAM|NATURAL_GAS,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|BIHAR|COAL_LIGNITE,arima,"((1, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|BIHAR|COAL_LIGNITE,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|CHHATTISGARH|COAL_LIGNITE,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|CHHATTISGARH|COAL_LIGNITE,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|CHHATTISGARH|HYDRO,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|CHHATTISGARH|HYDRO,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|DELHI|COAL_LIGNITE,arima,"((0, 1, 0), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|DELHI|COAL_LIGNITE,sarima,"((1, 1, 0), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|DELHI|NATURAL_GAS,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|DELHI|NATURAL_GAS,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|GOA|NATURAL_GAS,arima,"((0, 1, 0), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|GOA|NATURAL_GAS,sarima,"((1, 1, 0), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|GUJARAT|COAL_LIGNITE,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|GUJARAT|COAL_LIGNITE,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|GUJARAT|HYDRO,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|GUJARAT|HYDRO,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|GUJARAT|NATURAL_GAS,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|GUJARAT|NATURAL_GAS,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|GUJARAT|NUCLEAR,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|GUJARAT|NUCLEAR,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|HARYANA|COAL_LIGNITE,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|HARYANA|COAL_LIGNITE,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|HARYANA|NATURAL_GAS,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|HARYANA|NATURAL_GAS,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|HIMACHAL PRADESH|HYDRO,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|HIMACHAL PRADESH|HYDRO,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|JAMMU AND KASHMIR + LADAKH|HYDRO,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|JAMMU AND KASHMIR + LADAKH|HYDRO,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|JAMMU AND KASHMIR + LADAKH|NATURAL_GAS,arima,"((0, 1, 0), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|JAMMU AND KASHMIR + LADAKH|NATURAL_GAS,sarima,"((1, 1, 0), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|JHARKHAND|COAL_LIGNITE,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|JHARKHAND|COAL_LIGNITE,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|JHARKHAND|HYDRO,arima,"((1, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|JHARKHAND|HYDRO,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|KARNATAKA|COAL_LIGNITE,arima,"((1, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|KARNATAKA|COAL_LIGNITE,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|KARNATAKA|DIESEL,arima,"((0, 1, 0), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|KARNATAKA|DIESEL,sarima,"((1, 1, 0), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|KARNATAKA|HYDRO,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|KARNATAKA|HYDRO,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|KARNATAKA|NATURAL_GAS,arima,"((0, 1, 0), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|KARNATAKA|NATURAL_GAS,sarima,"((1, 1, 0), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|KARNATAKA|NUCLEAR,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|KARNATAKA|NUCLEAR,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|KERALA|DIESEL,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|KERALA|DIESEL,sarima,"((1, 0, 1), (0, 1, 1), 'c')",2019-07..2023-06
+C,CELL|KERALA|HYDRO,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|KERALA|HYDRO,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|KERALA|NATURAL_GAS,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|KERALA|NATURAL_GAS,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|LAKSHADWEEP|DIESEL,arima,None,2022-12..2023-06
+C,CELL|LAKSHADWEEP|DIESEL,sarima,None,2022-12..2023-06
+C,CELL|MADHYA PRADESH|COAL_LIGNITE,arima,"((1, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|MADHYA PRADESH|COAL_LIGNITE,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|MADHYA PRADESH|HYDRO,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|MADHYA PRADESH|HYDRO,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|MAHARASHTRA|COAL_LIGNITE,arima,"((1, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|MAHARASHTRA|COAL_LIGNITE,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|MAHARASHTRA|HYDRO,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|MAHARASHTRA|HYDRO,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|MAHARASHTRA|NATURAL_GAS,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|MAHARASHTRA|NATURAL_GAS,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|MAHARASHTRA|NUCLEAR,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|MAHARASHTRA|NUCLEAR,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|MANIPUR|DIESEL,arima,"((0, 1, 0), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|MANIPUR|DIESEL,sarima,"((1, 1, 0), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|MANIPUR|HYDRO,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|MANIPUR|HYDRO,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|MEGHALAYA|HYDRO,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|MEGHALAYA|HYDRO,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|MIZORAM|HYDRO,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|MIZORAM|HYDRO,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|NAGALAND|HYDRO,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|NAGALAND|HYDRO,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|ODISHA|COAL_LIGNITE,arima,"((1, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|ODISHA|COAL_LIGNITE,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|ODISHA|HYDRO,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|ODISHA|HYDRO,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|PUDUCHERRY|NATURAL_GAS,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|PUDUCHERRY|NATURAL_GAS,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|PUNJAB|COAL_LIGNITE,arima,"((1, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|PUNJAB|COAL_LIGNITE,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|PUNJAB|HYDRO,arima,"((1, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|PUNJAB|HYDRO,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|RAJASTHAN|COAL_LIGNITE,arima,"((1, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|RAJASTHAN|COAL_LIGNITE,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|RAJASTHAN|HYDRO,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|RAJASTHAN|HYDRO,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|RAJASTHAN|NATURAL_GAS,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|RAJASTHAN|NATURAL_GAS,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|RAJASTHAN|NUCLEAR,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|RAJASTHAN|NUCLEAR,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|SIKKIM|HYDRO,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|SIKKIM|HYDRO,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|TAMIL NADU|COAL_LIGNITE,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|TAMIL NADU|COAL_LIGNITE,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|TAMIL NADU|DIESEL,arima,"((0, 1, 0), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|TAMIL NADU|DIESEL,sarima,"((1, 1, 0), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|TAMIL NADU|HYDRO,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|TAMIL NADU|HYDRO,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|TAMIL NADU|NATURAL_GAS,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|TAMIL NADU|NATURAL_GAS,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|TAMIL NADU|NUCLEAR,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|TAMIL NADU|NUCLEAR,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|TELANGANA|COAL_LIGNITE,arima,"((1, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|TELANGANA|COAL_LIGNITE,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|TELANGANA|HYDRO,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|TELANGANA|HYDRO,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|TRIPURA|NATURAL_GAS,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|TRIPURA|NATURAL_GAS,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|UTTAR PRADESH|COAL_LIGNITE,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|UTTAR PRADESH|COAL_LIGNITE,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|UTTAR PRADESH|HYDRO,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|UTTAR PRADESH|HYDRO,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|UTTAR PRADESH|NATURAL_GAS,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|UTTAR PRADESH|NATURAL_GAS,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|UTTAR PRADESH|NUCLEAR,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|UTTAR PRADESH|NUCLEAR,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|UTTARAKHAND|HYDRO,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|UTTARAKHAND|HYDRO,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|UTTARAKHAND|NATURAL_GAS,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|UTTARAKHAND|NATURAL_GAS,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|WEST BENGAL|COAL_LIGNITE,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|WEST BENGAL|COAL_LIGNITE,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|WEST BENGAL|HYDRO,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|WEST BENGAL|HYDRO,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,CELL|WEST BENGAL|NATURAL_GAS,arima,"((0, 1, 0), (0, 0, 0), 't')",2019-07..2023-06
+C,CELL|WEST BENGAL|NATURAL_GAS,sarima,"((1, 1, 0), (0, 1, 1), 'n')",2019-07..2023-06
+C,IMPORT|BHUTAN,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,IMPORT|BHUTAN,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,NSRC|COAL,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,NSRC|COAL,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,NSRC|COAL_LIGNITE,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,NSRC|COAL_LIGNITE,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,NSRC|DIESEL,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,NSRC|DIESEL,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,NSRC|HYDRO,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,NSRC|HYDRO,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,NSRC|LIGNITE,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,NSRC|LIGNITE,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,NSRC|NATURAL_GAS,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,NSRC|NATURAL_GAS,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,NSRC|NUCLEAR,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,NSRC|NUCLEAR,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,REG|Eastern,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,REG|Eastern,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,REG|North Eastern,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,REG|North Eastern,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,REG|Northern,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,REG|Northern,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,REG|Southern,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,REG|Southern,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,REG|Western,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,REG|Western,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|ANDAMAN AND NICOBAR ISLANDS,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|ANDAMAN AND NICOBAR ISLANDS,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|ANDHRA PRADESH,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|ANDHRA PRADESH,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|ARUNACHAL PRADESH,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|ARUNACHAL PRADESH,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|ASSAM,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|ASSAM,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|BIHAR,arima,"((1, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|BIHAR,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|CHHATTISGARH,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|CHHATTISGARH,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|DELHI,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|DELHI,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|GOA,arima,"((0, 1, 0), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|GOA,sarima,"((1, 1, 0), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|GUJARAT,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|GUJARAT,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|HARYANA,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|HARYANA,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|HIMACHAL PRADESH,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|HIMACHAL PRADESH,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|JAMMU AND KASHMIR + LADAKH,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|JAMMU AND KASHMIR + LADAKH,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|JHARKHAND,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|JHARKHAND,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|KARNATAKA,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|KARNATAKA,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|KERALA,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|KERALA,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|LAKSHADWEEP,arima,None,2022-12..2023-06
+C,ST|LAKSHADWEEP,sarima,None,2022-12..2023-06
+C,ST|MADHYA PRADESH,arima,"((1, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|MADHYA PRADESH,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|MAHARASHTRA,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|MAHARASHTRA,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|MANIPUR,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|MANIPUR,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|MEGHALAYA,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|MEGHALAYA,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|MIZORAM,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|MIZORAM,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|NAGALAND,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|NAGALAND,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|ODISHA,arima,"((1, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|ODISHA,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|PUDUCHERRY,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|PUDUCHERRY,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|PUNJAB,arima,"((1, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|PUNJAB,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|RAJASTHAN,arima,"((1, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|RAJASTHAN,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|SIKKIM,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|SIKKIM,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|TAMIL NADU,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|TAMIL NADU,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|TELANGANA,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|TELANGANA,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|TRIPURA,arima,"((2, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|TRIPURA,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|UTTAR PRADESH,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|UTTAR PRADESH,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|UTTARAKHAND,arima,"((1, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|UTTARAKHAND,sarima,"((1, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,ST|WEST BENGAL,arima,"((0, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,ST|WEST BENGAL,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
+C,TOTAL,arima,"((1, 1, 2), (0, 0, 0), 't')",2019-07..2023-06
+C,TOTAL,sarima,"((0, 1, 1), (0, 1, 1), 'n')",2019-07..2023-06
